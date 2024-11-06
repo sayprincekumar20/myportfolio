@@ -1,0 +1,46 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+        
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact Me</title>
+        <link rel="stylesheet" href="{% static 'css/contact.css' %}">
+    </head>
+    <body>
+    <section class="contact-section">
+        <h1>Contact Me</h1>
+        <div class="contact-content">
+            <form action="#" method="post" class="contact-form">
+                {% csrf_token %}
+                <label for="name">Name </label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email </label>
+                <input type="email" id="email" name="email" required>
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" name="subject" required>
+                <label for="message">Message</label>
+                <textarea id="message" name="message" required rows="4"></textarea>
+                <button type="submit">Send</button>
+            </form>
+            <div class="contact-info">
+                <h3>Prince Kumar<br> Data Analyst \ Scientist</h3>
+                <p>Email:<br><a href="mailto:sayprincekumar20@gmail.com">sayprincekumar20@gmail.com</a></p>
+                <p>Contact No:<br> 
+                    <button class="contact-button" onclick="window.location.href='tel:+917667415924'">+91 7667415924</button>
+                </p>
+                </div>
+        </div>
+    </section>
+    </body>
+    </html>
+    
+{% endblock %}
+
+

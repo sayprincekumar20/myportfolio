@@ -1,0 +1,41 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+<style>
+    .content-containerf {
+        display: flex; 
+        flex-direction: column;
+        justify-content: center; 
+        align-items: center; 
+        height: auto; /* Adjust to the appropriate height you need */
+        text-align: center; 
+        padding: 20px; 
+        width: 100%; /* Added this line */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
+    .content-containerf p {
+        background-color: #ffffff;
+        padding: 20px;
+        text-align: center;
+        width: 90%;
+        max-width: 100%; /* Reduce header size */
+        margin-bottom: 20px; 
+    } 
+
+    
+</style>    
+
+<div class="content-containerf">
+    <h2>REAL-TIME MULTIPLE OBJECT DETECTION AND TRACKING</h2>
+    <p>
+        In many computer vision applications, such as surveillance, vehicle navigation, and autonomous robot navigation, object recognition and tracking are critical and difficult problems. One of the flow testing research subjects in PC vision is video observation in a powerful climate, particularly for people and cars. It is a critical innovation in the fight against illegal intimidation, crime, public safety, and effective traffic control. The endeavour entails developing an effective video surveillance system for use in complex contexts. Detecting moving things from a video is critical for object identification and target tracking in video surveillance. The detection of moving objects in video streams is the first significant phase of information, and background subtraction is a common method for foreground segmentation. Due to an increased demand for such systems in public spaces such as airports, subway stations, and mass events, intelligent and automated security surveillance systems have been an important study topic in recent years. In this context, one of the most significant needs for surveillance systems based on the tracking of abandoned, stolen, or parked vehicles is the tracking of fixed foreground regions. Because they work reasonably well when the camera is stationary and the change in ambient lighting is gradual, object tracking-based techniques are the most popular choice for detecting stationary foreground objects. They are also the most popular choice for separating foreground objects from the current frame.
+    </p>
+    <img src="{% static 'img/publications/barcode.png' %}" alt="Barcode" style="margin-top: 20px; width: 200px; height: auto;">
+</div>
+
+{% endblock %}
+

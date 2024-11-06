@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <script>
+        window.addEventListener('scroll', function() {
+            const header = document.getElementById('main-header');
+            if (window.scrollY > 50) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+    </script>
+</head>
+<body>
+
+<!-- Header -->
+<header id="main-header">
+    <div class="header-content">
+        <h1>Prince Kumar</h1>
+        <p>Data Science & Analytics | Ex-taazaa<br>B.Tech CS - Ai & Ml, Sharda University</p>
+    </div>
+    <div class="nav-strip">
+        <nav class="navigation">
+            <ul class="nav-list">
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li>|</li>
+                <li><a href="{% url 'about' %}">About</a></li>
+                <li>|</li>
+                <li><a href="{% url 'resume' %}">Resume</a></li>
+                <li>|</li>
+                <li><a href="{% url 'data_science_blog' %}">Data Science Blog</a></li>
+                <li>|</li>
+                <li><a href="https://github.com/sayprincekumar20">GitHub</a></li>
+                <li>|</li>
+                <li><a href="{% url 'publication' %}">Publications</a></li>
+                <li>|</li>
+                <li><a href="{% url 'contact' %}">Contact</a></li>
+                <li>|</li>
+                <li><a href="{% url 'photography' %}">Photography</a></li>
+                <span style="display:inline-block; width: 15em;"></span>
+                <a href="mailto:sayprincekumar20@gmail.com">sayprincekumar20@gmail.com</a>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<!-- New Static Separator Section -->
+<div class="separator-section">
+    <!-- Optional content or blank for color separation -->
+</div>
+
+<main>
+    {% block content %}
+    {% endblock %}
+</main>
+
+<div class="separator-section">
+<!-- Footer -->
+<footer>
+    <div class="footer-section">
+        <h3>Location</h3>
+        <p>Noida, Uttar Pradesh</p>
+    </div>
+    <div class="footer-section">
+        <h3>Contact</h3>
+        <p><a href="mailto:sayprincekumar20@gmail.com">sayprincekumar20@gmail.com</a></p>
+    </div>
+    <div class="footer-section">
+        <h3>Follow</h3>
+        <div class="social-icons">
+            <a href="https://www.instagram.com/prince_singh0920/?hl=en"><img src="{% static 'img/footer/instra.png' %}" alt="Instagram"></a>
+            <a href="https://www.linkedin.com/in/prince-kumar-23pri/"><img src="{% static 'img/footer/linkedin.png' %}" alt="LinkedIn"></a>
+            <a href="https://github.com/sayprincekumar20"><img src="{% static 'img/footer/github.jpeg' %}" alt="GitHub"></a>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>

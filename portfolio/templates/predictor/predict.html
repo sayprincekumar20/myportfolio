@@ -1,0 +1,150 @@
+
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Allergy Prediction</title>
+    <style>
+    /* Basic styling */
+
+
+/* Header styling */
+
+.custom-header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-size: 24px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    margin-top: auto;
+    width: 100%;
+}
+
+/* Container for form and image */
+.container {
+    display: flex;
+    background-color: #ffffff;
+    width: 95%; /* Increase width */
+    max-width: 1200px; /* Allow more horizontal space */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    height: auto; /* Set to auto for dynamic height */
+    padding: 1.5rem; /* Padding for compactness */
+}
+
+/* Form section */
+.form-container {
+    flex: 1; 
+    padding: 1rem; /* Reduced padding for compact layout */
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 24px; /* Slightly smaller for compact look */
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+select, input[type="number"], input[type="text"], button {
+    width: 100%;
+    padding: 8px; /* Reduce padding for compact look */
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Image section */
+.image-container {
+    flex: 1.3; /* Slightly less space to balance layout */
+    background: url('{% static "img/allergies/istockphoto-1231848514-2048x2048.webp" %}') no-repeat center center;
+    background-size: cover;
+    height: 550px; /* Reduced height for compact layout */
+    border-radius: 10px;
+    width: 40%; /* Increased width to balance container */
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        padding: 1rem;
+        width: 90%; /* Slightly smaller for mobile view */
+    }
+
+    .image-container {
+        height: 200px; /* Smaller height for mobile */
+        margin-bottom: 1.5rem;
+    }
+}
+
+</style>
+</head>
+<body>
+    <!--  custom Header -->
+
+    <div class="custom-header">
+        Allergy Prediction System
+    </div>
+    <!-- Main Content Area: Form on Left, Image on Right -->
+    <div class="container">
+        <!-- Form Side -->
+        <div class="form-container">
+            <h1>Allergy Prediction Form</h1>
+            <form method="post" action="{% url 'allergy_prediction' %}">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">Predict</button>
+            </form>
+        </div>
+
+        <!-- Image Side -->
+        <div class="image-container"></div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 Allergy Prediction System. All rights reserved.
+    </footer>
+</body>
+</html>
+
+{% endblock %}

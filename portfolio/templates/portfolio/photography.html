@@ -1,0 +1,150 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography Portfolio</title>
+    <link rel="stylesheet" href="{% static 'css/photography.css' %}">
+
+    <script>
+        // Function to check if an element is in the viewport
+        function isInViewport(element) {
+            const rect = element.getBoundingClientRect();
+            return (
+                rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&
+                rect.bottom >= 0
+            );
+        }
+    
+         // Function to apply the in-view class for animations
+    function animateGalleryItems() {
+        const galleryItems = document.querySelectorAll('.gallery-item');
+        
+        galleryItems.forEach(item => {
+            if (isInViewport(item)) {
+                item.classList.add('in-view');
+            } else {
+                item.classList.remove('in-view'); // Remove class when out of view
+            }
+        });
+    }
+
+        // Add scroll and resize event listeners
+    window.addEventListener('scroll', animateGalleryItems);
+    window.addEventListener('resize', animateGalleryItems); // Also trigger on resize
+
+    // Initial check to animate items already in view
+    animateGalleryItems();
+
+        
+        // Lightbox functions
+        function openLightbox(imageSrc) {
+            const lightbox = document.getElementById('lightbox');
+            const lightboxImg = document.getElementById('lightbox-img');
+            lightboxImg.src = imageSrc;
+            lightbox.classList.add('active');
+        }
+    
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.remove('active');
+        }
+    
+    </script>
+      
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h2 class="gall-title">Photography</h2>
+            <h2>Prince Photography</h2>
+            <p class="subtitle">Travel | Landscape | Nature | Macro Photography</p>
+            
+            <div class="social-icons"> 
+                <a href="https://www.instagram.com/prince_singh0920/?hl=en"><img src="/static/img/footer/instra.png" alt="Instagram"></a>
+                <a href="https://www.linkedin.com/in/prince-kumar-23pri/"><img src="/static/img/footer/linkedin.png" alt="LinkedIn"></a> 
+                <a href="https://github.com/sayprincekumar20"><img src="/static/img/footer/github.jpeg" alt="GitHub"></a> 
+            </div>
+
+        </div>
+        <div class="image-container">
+            <img src="{% static 'img/presonal/1730928913028.jpg' %}" alt="Prince Photography Logo">
+
+        </div>
+    </div>
+    <div>
+      
+        <h1 class="gallery-title">Quick Gallery</h1>
+        <div class="gallery-container">
+           <!-- Gallery items -->
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730556515245.jpg' %}" alt="Gallery Image 1" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730556515268.jpg' %}" alt="Gallery Image 2" onclick="openLightbox(this.src)">               
+            </div>
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730556983246.jpg' %}" alt="Gallery Image 3" onclick="openLightbox(this.src)">
+            </div>  
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730556983267.jpg' %}" alt="Gallery Image 4" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item">
+               <img src="{% static 'img/photography/1730556983316.jpg' %}" alt="Gallery Image 5" onclick="openLightbox(this.src)">
+            </div>
+            {% comment %} <div class="gallery-item">
+                <img src="{% static 'img/photography/1730556983391.jpg' %}" alt="Gallery Image 6" onclick="openLightbox(this.src)">
+            </div> {% endcomment %}
+            <div class="gallery-item large">
+                <img src="{% static 'img/photography/1730557268703.jpg' %}" alt="Gallery Image 7" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item tall">
+                <img src="{% static 'img/photography/1730556983342.jpg' %}" alt="Gallery Image 8" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730557268741.jpg' %}" alt="Gallery Image 9" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item large">
+                <img src="{% static 'img/photography/1730557268786.jpg' %}" alt="Gallery Image 10" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item til">
+                 <img src="{% static 'img/photography/1730557268830.jpg' %}" alt="Gallery Image 11" onclick="openLightbox(this.src)"> 
+                </div>
+            <div class="gallery-item tail">
+                <img src="{% static 'img/photography/1730557268877.jpg' %}" alt="Gallery Image 12" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730557268918.jpg' %}" alt="Gallery Image 13" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item tail">
+                <img src="{% static 'img/photography/1730557268949.jpg' %}" alt="Gallery Image 14" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730557268988.jpg' %}" alt="Gallery Image 15" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item large">
+                <img src="{% static 'img/photography/1730557269038.jpg' %}" alt="Gallery Image 16" onclick="openLightbox(this.src)">
+            </div>
+            <div class="gallery-item">
+                <img src="{% static 'img/photography/1730557269084.jpeg' %}" alt="Gallery Image 17" onclick="openLightbox(this.src)">
+            </div> 
+
+               
+            <!-- Add more images as needed -->
+        
+        </div>
+        <!-- Lightbox overlay -->
+        <div id="lightbox" class="lightbox-overlay" onclick="closeLightbox()">
+            <img id="lightbox-img" src="" alt="Enlarged Image">
+        </div>
+    </div>
+</body>
+</html>
+
+{% endblock %}

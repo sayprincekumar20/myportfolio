@@ -1,0 +1,162 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Pagination Example</title> 
+
+    <!-- Link to CSS file using Django static tag -->
+    <link rel="stylesheet" href="{% static 'css/data_science_blogs.css' %}">
+</head>
+
+<body> 
+    <div id="data-container"> 
+        <h1>Pagination in HTML CSS & JavaScript</h1> 
+        <div class="card-container"> 
+            <!-- Card items with clickable links -->
+            <div class="card"> 
+                <a href="{% url 'allergy_prediction' %}"  target="_blank">
+                    <img src="{% static 'img/allergies/allergy_png_2.jpg' %}" alt="Image 1"> 
+                    <h3>Allergy Prediction System</h3> 
+                   <p> AI-powered model for predicting allergy risks and reaction severity levels.</p>
+                    
+                </a>
+            </div> 
+
+            <div class="card"> 
+                <a href="https://example.com/page2" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/gate-crash-course-2024-thumbnail.png?v=19630" alt="Image 4"> 
+                    <h3>gate crash course 2024</h3> 
+                    <p>This is the content of Card 4.</p> 
+                </a>
+            </div> 
+
+            <div class="card"> 
+                <a href="https://example.com/page3" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/complete-test-series-product-companies-thumbnail.png?v=19631" alt="Image 5"> 
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 5.</p> 
+                </a>
+            </div> 
+            <div class="card"> 
+                <a href="https://example.com/page3" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/complete-test-series-product-companies-thumbnail.png?v=19631" alt="Image 5"> 
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 5.</p> 
+                </a>
+            </div>
+           
+            <div class="card"> 
+                <a href="https://example.com/page3" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/complete-test-series-product-companies-thumbnail.png?v=19631" alt="Image 5"> 
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 5.</p> 
+                </a>
+            </div>
+            <div class="card"> 
+                <a href="https://example.com/page3" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/complete-test-series-product-companies-thumbnail.png?v=19631" alt="Image 5"> 
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 5.</p> 
+                </a>
+            </div>
+            
+            <div class="card"> 
+                <a href="https://example.com/page3" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/complete-test-series-product-companies-thumbnail.png?v=19631" alt="Image 5"> 
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 5.</p> 
+                </a>
+            </div>
+            <div class="card"> 
+                <a href="https://example.com/page3" target="_blank">
+                    <img src="https://media.geeksforgeeks.org/img-practice/banner/complete-test-series-product-companies-thumbnail.png?v=19631" alt="Image 5"> 
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 5.</p> 
+                </a>
+            </div>
+            
+
+            <!-- Add other cards here -->
+        </div> 
+    </div>
+
+    <div class="pagination" id="pagination"> 
+        <a href="#" id="prev">Previous</a> 
+        <a href="#" class="page-link" data-page="1">1</a> 
+        <a href="#" class="page-link" data-page="2">2</a> 
+        <a href="#" id="next">Next</a> 
+        <p id="page-numbers"></p> 
+    </div> 
+
+    <!-- JavaScript for Pagination (can also be moved to a separate .js file) -->
+    <script>
+        const cardsPerPage = 4;
+        const dataContainer = document.getElementById('data-container'); 
+        const pagination = document.getElementById('pagination'); 
+        const prevButton = document.getElementById('prev'); 
+        const nextButton = document.getElementById('next'); 
+        const pageNumbers = document.getElementById('page-numbers'); 
+        const pageLinks = document.querySelectorAll('.page-link'); 
+        const cards = Array.from(dataContainer.getElementsByClassName('card')); 
+        const totalPages = Math.ceil(cards.length / cardsPerPage); 
+        let currentPage = 1;
+
+        function displayPage(page) { 
+            const startIndex = (page - 1) * cardsPerPage; 
+            const endIndex = startIndex + cardsPerPage; 
+            cards.forEach((card, index) => { 
+                card.style.display = (index >= startIndex && index < endIndex) ? 'block' : 'none'; 
+            }); 
+        }
+
+        function updatePagination() { 
+            pageNumbers.textContent = `Page ${currentPage} of ${totalPages}`; 
+            prevButton.disabled = currentPage === 1; 
+            nextButton.disabled = currentPage === totalPages; 
+            pageLinks.forEach((link) => { 
+                const page = parseInt(link.getAttribute('data-page')); 
+                link.classList.toggle('active', page === currentPage); 
+            }); 
+        }
+
+        prevButton.addEventListener('click', () => { 
+            if (currentPage > 1) { 
+                currentPage--; 
+                displayPage(currentPage); 
+                updatePagination(); 
+            } 
+        });
+
+        nextButton.addEventListener('click', () => { 
+            if (currentPage < totalPages) { 
+                currentPage++; 
+                displayPage(currentPage); 
+                updatePagination(); 
+            } 
+        });
+
+        pageLinks.forEach((link) => { 
+            link.addEventListener('click', (e) => { 
+                e.preventDefault(); 
+                const page = parseInt(link.getAttribute('data-page')); 
+                if (page !== currentPage) { 
+                    currentPage = page; 
+                    displayPage(currentPage); 
+                    updatePagination(); 
+                } 
+            }); 
+        });
+
+        displayPage(currentPage); 
+        updatePagination();
+    </script>
+</body> 
+</html>
+{% endblock %}

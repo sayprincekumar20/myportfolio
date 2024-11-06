@@ -1,0 +1,179 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Pagination Example</title> 
+
+    <!-- Link to CSS file using Django static tag -->
+    <link rel="stylesheet" href="{% static 'css/data_science_blogs.css' %}">
+</head>
+
+<body> 
+    <div id="data-container"> 
+        <h1>Hands-on Data Science Projects & EDA</h1> 
+        <div class="card-container"> 
+            <!-- Card items with clickable links -->
+            <div class="card" onclick="location.href='{% url 'allergy_prediction' %}' " style="cursor: pointer;">
+                <img src="{% static 'img/allergies/allergy_png_2.jpg' %}" alt="Image 1"> 
+                <h3>Allergy Prediction System</h3> 
+                <p> The Allergy Prediction System uses a GradientBoostingClassifier to predict the severity of allergic reactions based on features such as IgE levels, exposure frequency, allergen type, symptoms, and family history. The model assists in understanding allergic response patterns, helping healthcare professionals provide timely interventions and improve patient care management.</p>
+            </div> 
+
+            <div class="card" onclick="location.href='{% url 'electrolyte_prediction' %}' " style="cursor: pointer;">
+                <img src= "{% static 'img/electrolyte_imbalance/electrolyte_imbalance_card.jpeg' %}" alt="image 2">
+                <h3> Electrolyte Imbalance Prediction</h3> 
+                <p> Electrolyte Imbalance Prediction uses a RandomForestClassifier to predict imbalances in key electrolytes like sodium, potassium, and calcium based on patient data. By analyzing these health indicators, the model aims to assist in early detection and intervention, helping healthcare professionals identify and manage electrolyte disturbances effectively for better patient outcomes
+                </p>
+            </div> 
+            <div class="card" onclick="location.href='{% url 'blogs_3' %}'" style="cursor: pointer;">
+                <img src= "{% static 'img/data_science_card_images/Health Monitoring and Analysis.png' %}" alt="Health Monitoring and Analysis">
+                <h3>Health Monitoring and Analysis</h3> 
+            </div>
+
+            <div class="card" onclick="location.href='{% url 'blogs_4' %}'" style="cursor: pointer;">
+                <img src= "{% static 'img/data_science_card_images/Spotify data analysis.png' %}" alt="Spotify data analysis">
+                <h3>Spotify Data: Popular Hip-Hop Artists and Tracks Analysis</h3> 
+            </div>
+
+            <div class="card" onclick="location.href='{% url 'render_notebook_tmdb_movies' %}' " style="cursor: pointer;">
+                <img src= "{% static 'img/data_science_card_images/TMBD-Movies Data Analysis.png' %}" alt="TMBD">
+                <h3>TMDB-Movies: Analyzing Key Success Factors</h3>
+                <p>
+                    Exploring budget, runtime, popularity, and traits of top revenue movies.
+                </p>
+            </div>
+
+            <div class="card" onclick="location.href='{% url 'render_notebook_T20_World_cup' %}' " style="cursor: pointer;">
+                <img src= "{% static 'img/data_science_card_images/T20 World Cup 2024 Match Analysis.png' %}" alt="T20_world">
+                <h3>T20 World Cup 2024: USA vs. India Match Insights</h3>
+                <p>A look at the T20 World Cup 2024 performances of USA and India, analyzing strengths, challenges, and match impact.</p>  
+            </div>
+            
+            {% comment %}
+            # this code when you click on they open in new tabs
+             <div class="card"> 
+                <a href="{% url 'blogs_1' %}" target="_blank">
+                    <img src= "{% static 'img/data_science_card_images/Amazon_sales.jpg' %}" alt="Amazon_sales">
+                    <h3>complete test series product companies</h3> 
+                    <p>This is the content of Card 1.</p> 
+                </a>
+            </div>  {% endcomment %}
+
+            <div class="card" onclick="location.href='{% url 'blogs_1' %}'" style="cursor: pointer;">
+                <img src="{% static 'img/data_science_card_images/Amazon_sales.jpg' %}" alt="Amazon_sales">
+                <h3>Amazon Sales Data Analysis: Strategies for Growth and Improvement</h3> 
+                <p>Analyzing Amazon sales data to address product issues, optimize pricing strategies, enhance product categories, and improve data quality. Focus on improving low-rated products, leveraging successful ones for marketing, and ensuring accurate data for better decision-making and business growth.</p> 
+            </div>
+            
+
+            <div class="card" onclick="location.href='{% url 'blogs_2' %}'" style="cursor: pointer;">
+                <img src= "{% static 'img/data_science_card_images/Delhi Metro Network Analysis.png' %}" alt="Delhi Metro Network Analysis">
+                <h3>Metro Network Analysis: Enhancing Delhi's Urban Transportation</h3> 
+            </div>
+               
+          
+            
+            <div class="card" onclick="location.href='{% url 'blogs_5' %}'" style="cursor: pointer;">
+                <img src= "{% static 'img/data_science_card_images/Spotify data analysis.png' %}" alt="Spotify data analysis">
+                <h3>complete test series product companies</h3> 
+                <p>This is the content of Card 544.</p> 
+            </div>
+
+         
+            <!-- Add other cards here -->
+        </div> 
+    </div>
+
+    <div class="pagination" id="pagination"> 
+        <a href="#" id="prev">Previous</a> 
+        <a href="#" class="page-link" data-page="1">1</a> 
+        <a href="#" class="page-link" data-page="2">2</a> 
+        <a href="#" id="next">Next</a> 
+        <p id="page-numbers"></p> 
+    </div> 
+
+    <script>
+        const cardsPerPage = 4;
+        const dataContainer = document.getElementById('data-container'); 
+        const pagination = document.getElementById('pagination'); 
+        const prevButton = document.getElementById('prev'); 
+        const nextButton = document.getElementById('next'); 
+        const pageNumbers = document.getElementById('page-numbers'); 
+        const pageLinks = document.querySelectorAll('.page-link'); 
+        const cards = Array.from(dataContainer.getElementsByClassName('card')); 
+        const totalPages = Math.ceil(cards.length / cardsPerPage); 
+        let currentPage = 1;
+    
+        function displayPage(page, direction = 'fade') { 
+            const startIndex = (page - 1) * cardsPerPage; 
+            const endIndex = startIndex + cardsPerPage; 
+            
+            // Apply direction class for animation
+            const cardContainer = document.querySelector('.card-container');
+            cardContainer.classList.remove('transition-left', 'transition-right');
+    
+            if (direction === 'left') {
+                cardContainer.classList.add('transition-left');
+            } else if (direction === 'right') {
+                cardContainer.classList.add('transition-right');
+            }
+    
+            cards.forEach((card, index) => { 
+                card.style.display = (index >= startIndex && index < endIndex) ? 'block' : 'none'; 
+            }); 
+        }
+    
+        function updatePagination() { 
+            pageNumbers.textContent = `Page ${currentPage} of ${totalPages}`; 
+            prevButton.disabled = currentPage === 1; 
+            nextButton.disabled = currentPage === totalPages; 
+            pageLinks.forEach((link) => { 
+                const page = parseInt(link.getAttribute('data-page')); 
+                link.classList.toggle('active', page === currentPage); 
+            }); 
+        }
+    
+        prevButton.addEventListener('click', () => { 
+            if (currentPage > 1) { 
+                currentPage--; 
+                displayPage(currentPage, 'left'); 
+                updatePagination(); 
+            } 
+        });
+    
+        nextButton.addEventListener('click', () => { 
+            if (currentPage < totalPages) { 
+                currentPage++; 
+                displayPage(currentPage, 'right'); 
+                updatePagination(); 
+            } 
+        });
+    
+        pageLinks.forEach((link) => { 
+            link.addEventListener('click', (e) => { 
+                e.preventDefault(); 
+                const page = parseInt(link.getAttribute('data-page')); 
+                if (page !== currentPage) { 
+                    const direction = page > currentPage ? 'right' : 'left';
+                    currentPage = page; 
+                    displayPage(currentPage, direction); 
+                    updatePagination(); 
+                } 
+            }); 
+        });
+    
+        displayPage(currentPage); 
+        updatePagination();
+    </script>
+    
+    
+</body> 
+</html>
+{% endblock %}

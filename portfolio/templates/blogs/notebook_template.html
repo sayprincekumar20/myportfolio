@@ -1,0 +1,30 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Contact Us - My Resume Portfolio{% endblock %}
+
+{% block content %}
+
+<style>
+.custom-header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-size: 24px;
+}
+
+</style>
+<div class="custom-header">
+    Explore insights from the TMDB-Movies
+</div>
+
+
+    <p>Notebook Viewer</p>
+
+<!-- Notebook Content -->
+<div class="notebook-content">
+    {{ notebook_html|safe }}
+</div>
+
+{% endblock %}

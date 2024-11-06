@@ -1,0 +1,120 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+{% block title %}Welcome - My Resume Portfolio{% endblock %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Portfolio</title>
+    <link rel="stylesheet" href="{% static 'css/photography.css' %}">
+    <script>
+        function scrollToAbout() {
+            document.getElementById("about").scrollIntoView({ behavior: "smooth" });
+        }
+        
+    </script>
+    <style>
+        .separator {
+            height: 30px;
+            background-color: #4b4f38;
+            width: 100%;
+        } 
+
+        .image-con {
+            width: 35%; /* Adjusted for better proportion */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f0f0f0; /* Soft grey background */
+            border-right: 1px solid #e0e0e0; /* Soft divider between sections */
+            box-sizing: border-box;
+            height: 20%; /* Make container height 100% */
+        }
+        
+        .image-con img {
+            object-fit: cover; /* Crops the image to cover the entire container */
+            width: 115%; /* Ensures image fills the container */
+            max-width: 500px; /* Increased max width */
+            height: 40%; /* Ensures the image fills the container height */
+            border: 1px solid #cccccc; /* Soft grey border around image */
+            border-radius: 5px; /* Slightly rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Subtle shadow for depth */
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Welcome Section -->
+    <section id="welcome" class="section">
+        <div class="container">
+            <div class="content">
+                <h2 class="gall-title">Welcome</h2>
+                <h2>Prince Kumar</h2>
+                <h3 class="subtitle">Data Analyst / Data Scientist</h3>
+                <p class="subtitle">B.Tech CSE - AI & ML</p>
+
+                <p class="story">
+                    I am passionate about solving challenging problems, creating data-driven products, and mentoring the next generation of data scientists. My goal is to leverage my skills and expertise to help companies achieve their vision of empowering users and going after what's next.
+                </p>
+                <button class="about-btn" onclick="scrollToAbout()">About Me</button>
+                <div class="social-icons">
+                    <a href="https://www.instagram.com/prince_singh0920/?hl=en"><img src="{% static 'img/footer/instra.png' %}" alt="Instagram"></a>
+                    <a href="https://www.linkedin.com/in/prince-kumar-23pri/"><img src="{% static 'img/footer/linkedin.png' %}" alt="LinkedIn"></a>
+                    <a href="https://github.com/sayprincekumar20"><img src="{% static 'img/footer/github.jpeg' %}" alt="GitHub"></a>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="{% static 'img/photography/1730556983391.jpg' %}" alt="Profile Photo">
+            </div>
+        </div>
+    </section>
+
+    <!-- Separator Border -->
+    <div class="separator"></div>
+
+<section id="about" class="section">
+    
+    <div class="container">
+        <div class="image-container">
+            <img src="{% static 'img/presonal/1730929997223.jpg' %}" alt="Prince Photography Logo">
+        </div>
+        
+        <div class="content">
+            <h2 >More About Me</h2>
+            
+           <p> I'm Prince Kumar, a highly motivated and results-driven professional with a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence (AI) and Machine Learning (ML) from Sharda University (2022). Throughout my academic journey, I developed a deep passion for leveraging cutting-edge technologies to solve real-world problems, with a specific focus on data science and data analytics.</p>
+
+           <p> My career began as an Associate Software Developer at Taazaa Tech, where I gained substantial experience in full-stack development and .NET technologies. While my role as a software developer honed my technical skills, I discovered that my true passion lies in data analytics — the ability to extract valuable insights from data and transform them into actionable business strategies.</P>
+            
+           <p> Recognizing my enthusiasm for data-driven decision-making, I made a strategic decision to transition into data science and data analytics, where I could apply my knowledge of AI and ML to solve complex business challenges. I am deeply committed to utilizing data to drive innovation, improve processes, and enhance decision-making across organizations.</p>
+            
+            <p>In pursuit of expanding my skill set, I completed the Full Stack Data Science Pro certification from Physics Wallah, where I gained hands-on experience in key areas such as data exploration, predictive modeling, and machine learning. This certification has not only enriched my technical expertise but also provided me with practical tools to implement data-driven solutions effectively.</p>
+            
+           <p> I am excited about the opportunity to bring my analytical mindset, technical expertise, and passion for data science to your organization. I thrive in environments that encourage continuous learning, collaboration, and problem-solving. My goal is to contribute to high-impact projects, optimize business processes, and help organizations make informed, data-driven decisions that lead to sustainable growth.</p>
+            
+           <p> I am confident that my technical background, combined with my passion for data, makes me an ideal candidate to contribute to impactful data science initiatives and support business objectives.</p>
+
+            <div class="social-icons"> 
+                <a href="https://www.instagram.com/prince_singh0920/?hl=en"><img src="/static/img/footer/instra.png" alt="Instagram"></a>
+                <a href="https://www.linkedin.com/in/prince-kumar-23pri/"><img src="/static/img/footer/linkedin.png" alt="LinkedIn"></a> 
+                <a href="https://github.com/sayprincekumar20"><img src="/static/img/footer/github.jpeg" alt="GitHub"></a> 
+            </div>
+        </div>
+    </div>
+  
+</section>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+{% endblock %}
+
+
+

@@ -1,0 +1,1001 @@
+Allergen Type,IgE Levels (kU/L),Exposure Frequency,Symptoms,Family History,Reaction Severity
+Environmental - Mold,13.608360320216175,Daily,Swelling,No,Moderate
+Food - Seafood,4.354741143913854,Monthly,Anaphylaxis,No,Mild
+Environmental - Insect,7.377398668601131,Daily,Rash,Yes,Moderate
+Environmental - Pollen,12.44687280613959,Daily,Rash,Yes,Moderate
+Environmental - Mold,3.8893609555402726,Daily,Shortness of breath,No,Mild
+Food - Dairy,13.56499215086194,Rarely,Itchy skin,Yes,Moderate
+Environmental - Mold,8.798373009209325,Seasonal,Swelling,Yes,Moderate
+Environmental - Insect,8.125895962252013,Rarely,Hives,Yes,Moderate
+Environmental - Pollen,13.554799841017457,Seasonal,Coughing,Yes,Moderate
+Food - Seafood,12.2213165574302,Monthly,Nasal congestion,Yes,Moderate
+Environmental - Insect,8.1951691709046,Monthly,Rash,Yes,Moderate
+Environmental - Insect,15.79664901682124,Daily,Coughing,Yes,Severe
+Food - Dairy,4.594683362000513,Seasonal,Coughing,No,Mild
+Environmental - Dust,13.079678034721319,Seasonal,Oral allergy syndrome,Yes,Moderate
+Environmental - Pollen,12.965506289841919,Seasonal,Itchy skin,No,Moderate
+Food - Nuts,8.452267803430049,Daily,Nasal congestion,No,Moderate
+Environmental - Insect,11.63066511121059,Daily,Hives,No,Moderate
+Environmental - Dust,3.744432118073485,Monthly,Anaphylaxis,Yes,Mild
+Food - Nuts,14.620135096034506,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Pollen,9.075489317785054,Seasonal,Coughing,No,Moderate
+Food - Wheat,7.3863848974048025,Seasonal,Coughing,Yes,Moderate
+Environmental - Dust,15.245046129184447,Rarely,Nasal congestion,No,Severe
+Food - Spices,6.478281547286204,Seasonal,Nasal congestion,Yes,Moderate
+Food - Wheat,2.957693518182202,Daily,Nasal congestion,Yes,Mild
+Food - Dairy,2.2168541323804813,Daily,Coughing,No,Mild
+Environmental - Mold,13.030049756728198,Seasonal,Rash,No,Moderate
+Food - Seafood,3.597853237518585,Daily,Swelling,No,Mild
+Food - Spices,18.77397090992182,Daily,Coughing,Yes,Severe
+Food - Dairy,0.0,Seasonal,Oral allergy syndrome,No,Mild
+Environmental - Pollen,18.48228184145019,Monthly,Itchy skin,Yes,Severe
+Food - Dairy,11.055087336013091,Rarely,Hives,Yes,Moderate
+Environmental - Mold,9.516434440648037,Daily,Anaphylaxis,Yes,Moderate
+Environmental - Pollen,7.2754045659552515,Monthly,Hives,No,Moderate
+Food - Spices,11.995680571760355,Daily,Coughing,No,Moderate
+Environmental - Mold,9.811826487875758,Daily,Oral allergy syndrome,No,Moderate
+Food - Nuts,15.516509410082607,Rarely,Coughing,Yes,Severe
+Food - Seafood,10.571138243310198,Daily,Itchy skin,Yes,Moderate
+Food - Spices,10.751508807309389,Rarely,Rash,No,Moderate
+Food - Nuts,8.18193893893072,Rarely,Anaphylaxis,Yes,Moderate
+Food - Spices,9.715271881394663,Rarely,Itchy skin,Yes,Moderate
+Environmental - Pollen,11.539008844460296,Monthly,Coughing,No,Moderate
+Food - Nuts,1.449158036716872,Seasonal,Oral allergy syndrome,No,Mild
+Food - Seafood,3.259072889471435,Monthly,Itchy skin,No,Mild
+Environmental - Mold,13.716320470113574,Seasonal,Shortness of breath,Yes,Moderate
+Environmental - Insect,10.85432719063971,Seasonal,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,9.080083318236603,Rarely,Rash,Yes,Moderate
+Food - Wheat,10.092169665326965,Daily,Coughing,Yes,Moderate
+Food - Seafood,11.737908526808354,Rarely,Nasal congestion,Yes,Moderate
+Food - Nuts,7.301201598453193,Daily,Anaphylaxis,No,Moderate
+Environmental - Insect,6.108476372988436,Seasonal,Swelling,Yes,Moderate
+Food - Seafood,10.979226275488408,Rarely,Nasal congestion,Yes,Moderate
+Food - Nuts,5.10813611192484,Daily,Coughing,Yes,Moderate
+Environmental - Dust,12.04126377857236,Monthly,Shortness of breath,No,Moderate
+Environmental - Dust,1.4870819788107976,Daily,Nasal congestion,No,Mild
+Food - Seafood,15.145778186628219,Rarely,Anaphylaxis,No,Severe
+Environmental - Dust,12.362987412065216,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Nuts,11.280148671569378,Daily,Shortness of breath,No,Moderate
+Food - Nuts,14.91345491972757,Daily,Shortness of breath,No,Moderate
+Food - Seafood,18.32737222231288,Daily,Itchy skin,No,Severe
+Environmental - Insect,15.071850325090653,Daily,Anaphylaxis,Yes,Severe
+Environmental - Mold,0.795628843341774,Daily,Nasal congestion,No,Mild
+Food - Spices,3.602115166321492,Monthly,Itchy skin,Yes,Mild
+Environmental - Insect,6.875907111521606,Seasonal,Shortness of breath,Yes,Moderate
+Environmental - Pollen,10.130455251054169,Monthly,Itchy skin,No,Moderate
+Food - Nuts,12.588295102345615,Monthly,Hives,Yes,Moderate
+Environmental - Pollen,6.371280934232672,Monthly,Anaphylaxis,No,Moderate
+Environmental - Insect,10.933833822385392,Seasonal,Rash,Yes,Moderate
+Food - Spices,6.223085338233387,Rarely,Oral allergy syndrome,No,Moderate
+Food - Spices,6.942410985040259,Seasonal,Shortness of breath,No,Moderate
+Food - Wheat,2.9666945157588884,Monthly,Anaphylaxis,No,Mild
+Food - Spices,5.383833769445479,Daily,Rash,Yes,Moderate
+Environmental - Mold,3.241576971918332,Daily,Rash,No,Mild
+Food - Spices,5.120633735113336,Monthly,Coughing,Yes,Moderate
+Environmental - Insect,15.268208983039198,Daily,Itchy skin,No,Severe
+Food - Wheat,5.253005555840285,Monthly,Rash,Yes,Moderate
+Environmental - Insect,23.161910324186955,Daily,Hives,Yes,Severe
+Environmental - Insect,12.466589504404446,Seasonal,Anaphylaxis,No,Moderate
+Food - Dairy,10.92418061847437,Rarely,Swelling,No,Moderate
+Food - Wheat,5.7082110990939325,Rarely,Swelling,No,Moderate
+Environmental - Insect,13.501549397044958,Seasonal,Shortness of breath,No,Moderate
+Food - Dairy,7.121810868811131,Seasonal,Itchy skin,No,Moderate
+Food - Dairy,10.610049073226808,Monthly,Rash,Yes,Moderate
+Food - Wheat,22.800422691343975,Monthly,Anaphylaxis,No,Severe
+Environmental - Pollen,9.51970050137675,Monthly,Shortness of breath,No,Moderate
+Environmental - Mold,15.74636663142838,Daily,Nasal congestion,Yes,Severe
+Food - Spices,6.484117874370563,Monthly,Rash,No,Moderate
+Environmental - Mold,9.825057547515192,Seasonal,Itchy skin,No,Moderate
+Food - Spices,18.85400317817755,Rarely,Swelling,Yes,Severe
+Environmental - Insect,6.865164711061163,Daily,Coughing,No,Moderate
+Food - Nuts,19.062242789984644,Monthly,Anaphylaxis,No,Severe
+Food - Wheat,13.538759677277376,Daily,Oral allergy syndrome,No,Moderate
+Environmental - Mold,7.187666120528662,Daily,Shortness of breath,Yes,Moderate
+Environmental - Mold,13.162038695277605,Monthly,Anaphylaxis,No,Moderate
+Environmental - Insect,14.862772248133648,Daily,Anaphylaxis,Yes,Moderate
+Environmental - Pollen,13.109049811085981,Rarely,Hives,No,Moderate
+Food - Dairy,2.148876400547718,Seasonal,Nasal congestion,Yes,Mild
+Environmental - Insect,6.364314120875657,Seasonal,Rash,No,Moderate
+Environmental - Dust,8.762406822242475,Rarely,Rash,Yes,Moderate
+Food - Dairy,9.627832854499768,Daily,Itchy skin,Yes,Moderate
+Food - Wheat,13.10336048775339,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,10.88850500466627,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Pollen,3.323278206449494,Rarely,Itchy skin,Yes,Mild
+Food - Dairy,11.900989255029817,Daily,Coughing,Yes,Moderate
+Food - Wheat,13.052928726419115,Seasonal,Rash,No,Moderate
+Environmental - Pollen,12.798952239655199,Daily,Coughing,No,Moderate
+Environmental - Mold,15.403903627773108,Rarely,Anaphylaxis,Yes,Severe
+Environmental - Mold,14.16961077274452,Seasonal,Anaphylaxis,Yes,Moderate
+Food - Spices,12.295900396142184,Daily,Swelling,Yes,Moderate
+Food - Dairy,9.649171442706765,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Mold,1.6951953324200435,Seasonal,Swelling,No,Mild
+Food - Wheat,12.148091095662929,Monthly,Nasal congestion,Yes,Moderate
+Food - Seafood,11.038438435815555,Seasonal,Itchy skin,No,Moderate
+Food - Seafood,11.357894185976868,Monthly,Itchy skin,No,Moderate
+Environmental - Pollen,3.616257120898453,Rarely,Anaphylaxis,Yes,Mild
+Environmental - Mold,4.594717297958688,Rarely,Rash,Yes,Mild
+Environmental - Mold,15.265764266664519,Seasonal,Coughing,No,Severe
+Food - Seafood,9.802224230716725,Seasonal,Oral allergy syndrome,No,Moderate
+Environmental - Mold,13.407503486863122,Rarely,Swelling,Yes,Moderate
+Food - Dairy,10.141591880652307,Monthly,Coughing,Yes,Moderate
+Environmental - Dust,10.148780697478726,Rarely,Swelling,Yes,Moderate
+Food - Nuts,14.691419029879988,Seasonal,Nasal congestion,No,Moderate
+Food - Spices,7.419776358913131,Rarely,Nasal congestion,No,Moderate
+Environmental - Pollen,10.480603884704918,Seasonal,Coughing,Yes,Moderate
+Environmental - Dust,7.688623556474788,Seasonal,Coughing,No,Moderate
+Food - Seafood,7.8275188628384225,Rarely,Coughing,No,Moderate
+Environmental - Mold,8.454139382656804,Monthly,Swelling,Yes,Moderate
+Food - Spices,11.110668858168564,Daily,Hives,Yes,Moderate
+Environmental - Mold,7.606256891682613,Rarely,Coughing,No,Moderate
+Food - Wheat,16.278780627867604,Daily,Rash,No,Severe
+Food - Wheat,5.526963488902481,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Spices,9.065641779193205,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Spices,7.801344708629125,Monthly,Swelling,Yes,Moderate
+Food - Seafood,17.234889421768663,Monthly,Coughing,Yes,Severe
+Food - Spices,10.982773882557874,Rarely,Anaphylaxis,Yes,Moderate
+Food - Dairy,15.159222697343175,Seasonal,Itchy skin,No,Severe
+Environmental - Mold,2.5721981348151406,Daily,Hives,No,Mild
+Environmental - Dust,11.335251329346294,Seasonal,Rash,No,Moderate
+Environmental - Insect,14.448153978117185,Seasonal,Anaphylaxis,No,Moderate
+Food - Spices,10.411419946377121,Seasonal,Nasal congestion,Yes,Moderate
+Environmental - Pollen,15.327401875326757,Monthly,Anaphylaxis,Yes,Severe
+Food - Wheat,7.413557749498139,Rarely,Swelling,Yes,Moderate
+Food - Dairy,17.0467372009279,Rarely,Hives,No,Severe
+Environmental - Insect,21.49449061809625,Monthly,Shortness of breath,No,Severe
+Environmental - Dust,8.185807197801704,Monthly,Shortness of breath,No,Moderate
+Environmental - Insect,7.77248739299614,Rarely,Coughing,Yes,Moderate
+Food - Spices,17.266922385588504,Seasonal,Coughing,No,Severe
+Food - Seafood,17.897860728653562,Daily,Swelling,Yes,Severe
+Food - Wheat,7.385699864233659,Daily,Coughing,Yes,Moderate
+Food - Wheat,7.899065914520714,Daily,Itchy skin,Yes,Moderate
+Food - Seafood,8.591076955697464,Seasonal,Hives,Yes,Moderate
+Environmental - Mold,3.2777474448286146,Rarely,Swelling,Yes,Mild
+Food - Nuts,5.406740267579009,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,4.979296166239661,Rarely,Nasal congestion,No,Mild
+Food - Wheat,6.161012174479358,Seasonal,Swelling,Yes,Moderate
+Environmental - Pollen,9.826575563066093,Monthly,Swelling,Yes,Moderate
+Food - Wheat,11.171073662682604,Seasonal,Shortness of breath,No,Moderate
+Environmental - Insect,17.752502464070385,Daily,Rash,Yes,Severe
+Food - Wheat,5.008229796306045,Daily,Rash,No,Moderate
+Food - Wheat,14.921611992382918,Seasonal,Itchy skin,No,Moderate
+Food - Nuts,8.930055778872456,Monthly,Oral allergy syndrome,No,Moderate
+Food - Nuts,9.752681451737836,Monthly,Shortness of breath,Yes,Moderate
+Environmental - Dust,13.374097460833019,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Mold,4.386389892188507,Daily,Itchy skin,No,Mild
+Environmental - Pollen,11.912048730920253,Rarely,Rash,Yes,Moderate
+Food - Wheat,10.83226104106528,Rarely,Swelling,Yes,Moderate
+Food - Wheat,12.462256320040746,Seasonal,Coughing,No,Moderate
+Food - Dairy,11.445843219539091,Seasonal,Coughing,No,Moderate
+Food - Nuts,22.27650069955447,Rarely,Anaphylaxis,Yes,Severe
+Environmental - Pollen,6.81130007874342,Daily,Nasal congestion,No,Moderate
+Environmental - Dust,7.345015224990911,Seasonal,Itchy skin,No,Moderate
+Environmental - Mold,6.884297367876178,Rarely,Nasal congestion,No,Moderate
+Food - Seafood,7.222614404198726,Rarely,Nasal congestion,Yes,Moderate
+Environmental - Mold,6.8130643634674115,Rarely,Rash,Yes,Moderate
+Environmental - Insect,15.945082655537758,Rarely,Rash,Yes,Severe
+Food - Wheat,17.102521239949276,Rarely,Swelling,No,Severe
+Environmental - Dust,7.146268531252619,Rarely,Shortness of breath,Yes,Moderate
+Environmental - Insect,5.8382221344788565,Seasonal,Rash,No,Moderate
+Environmental - Pollen,12.35707778193202,Daily,Coughing,Yes,Moderate
+Food - Seafood,7.238884778595144,Rarely,Nasal congestion,Yes,Moderate
+Food - Nuts,13.164659088777555,Monthly,Anaphylaxis,No,Moderate
+Environmental - Dust,11.0146151042565,Seasonal,Hives,Yes,Moderate
+Environmental - Dust,2.4212794250138403,Seasonal,Itchy skin,No,Mild
+Food - Wheat,17.737526006650306,Rarely,Anaphylaxis,Yes,Severe
+Food - Spices,18.97938836547761,Seasonal,Coughing,Yes,Severe
+Environmental - Dust,6.936056547578069,Rarely,Rash,No,Moderate
+Food - Dairy,8.06149220032008,Daily,Shortness of breath,No,Moderate
+Food - Seafood,11.429326953624525,Daily,Swelling,No,Moderate
+Food - Seafood,11.672283949935125,Seasonal,Hives,Yes,Moderate
+Food - Dairy,13.292721363364151,Seasonal,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,20.051022693831747,Monthly,Anaphylaxis,Yes,Severe
+Food - Dairy,9.115263862529753,Seasonal,Shortness of breath,No,Moderate
+Food - Seafood,6.008513777307732,Monthly,Oral allergy syndrome,No,Moderate
+Environmental - Mold,3.103403859927364,Daily,Hives,No,Mild
+Food - Seafood,6.345349800290405,Daily,Itchy skin,Yes,Moderate
+Food - Spices,9.834365135631014,Rarely,Itchy skin,Yes,Moderate
+Food - Wheat,18.97278931758894,Daily,Nasal congestion,No,Severe
+Environmental - Insect,7.411943504819143,Monthly,Hives,Yes,Moderate
+Environmental - Mold,11.118939758194493,Seasonal,Hives,No,Moderate
+Food - Nuts,9.91788551963624,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Insect,15.94196636724042,Monthly,Shortness of breath,Yes,Severe
+Food - Wheat,22.63466212936811,Seasonal,Oral allergy syndrome,No,Severe
+Food - Spices,7.3456561353983965,Rarely,Swelling,Yes,Moderate
+Food - Spices,7.55280278740889,Daily,Itchy skin,Yes,Moderate
+Food - Nuts,15.22080438534536,Monthly,Itchy skin,No,Severe
+Environmental - Mold,13.409457448131556,Seasonal,Nasal congestion,No,Moderate
+Food - Dairy,19.23353662868017,Rarely,Swelling,Yes,Severe
+Environmental - Mold,12.91964092662982,Rarely,Itchy skin,No,Moderate
+Food - Spices,8.203539546064702,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Seafood,12.953274153461546,Seasonal,Swelling,No,Moderate
+Food - Wheat,15.54351790291454,Daily,Oral allergy syndrome,Yes,Severe
+Food - Nuts,14.10241090598682,Daily,Itchy skin,Yes,Moderate
+Food - Wheat,12.536370155536488,Seasonal,Itchy skin,No,Moderate
+Environmental - Pollen,15.33337344794577,Seasonal,Shortness of breath,Yes,Severe
+Environmental - Pollen,15.846477952228364,Seasonal,Anaphylaxis,Yes,Severe
+Environmental - Mold,16.910794955187637,Monthly,Anaphylaxis,No,Severe
+Food - Spices,13.243549437948214,Seasonal,Nasal congestion,No,Moderate
+Food - Spices,9.164409598415729,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,10.733568432166614,Daily,Oral allergy syndrome,No,Moderate
+Food - Dairy,16.032544832541785,Monthly,Coughing,No,Severe
+Food - Dairy,5.91532164506382,Seasonal,Swelling,Yes,Moderate
+Food - Seafood,11.843366544364507,Monthly,Rash,Yes,Moderate
+Environmental - Insect,8.033305938363197,Seasonal,Anaphylaxis,No,Moderate
+Environmental - Dust,10.143724114674088,Monthly,Itchy skin,No,Moderate
+Environmental - Insect,16.392259313036494,Daily,Nasal congestion,No,Severe
+Food - Wheat,10.955495340099517,Daily,Rash,Yes,Moderate
+Environmental - Insect,10.232182740780743,Rarely,Hives,Yes,Moderate
+Food - Seafood,3.200719295100404,Rarely,Nasal congestion,Yes,Mild
+Food - Wheat,13.731267830136105,Seasonal,Hives,Yes,Moderate
+Environmental - Insect,13.227420905705376,Daily,Hives,Yes,Moderate
+Food - Seafood,20.8162736165273,Monthly,Hives,Yes,Severe
+Environmental - Dust,8.461108825234996,Monthly,Shortness of breath,Yes,Moderate
+Environmental - Insect,11.095751638319694,Monthly,Shortness of breath,No,Moderate
+Food - Seafood,11.246918418553776,Rarely,Shortness of breath,No,Moderate
+Food - Dairy,17.887266398817374,Monthly,Rash,Yes,Severe
+Food - Spices,9.52352233806524,Rarely,Nasal congestion,Yes,Moderate
+Food - Dairy,11.395107628851695,Rarely,Nasal congestion,Yes,Moderate
+Food - Spices,13.039482548582697,Seasonal,Itchy skin,No,Moderate
+Food - Nuts,10.93304561578179,Monthly,Shortness of breath,Yes,Moderate
+Food - Nuts,7.767831927247359,Monthly,Itchy skin,No,Moderate
+Food - Nuts,10.970449964491538,Daily,Swelling,No,Moderate
+Environmental - Dust,15.36815874929886,Seasonal,Itchy skin,No,Severe
+Food - Dairy,4.867423502944699,Daily,Rash,No,Mild
+Food - Spices,10.66484837073438,Seasonal,Anaphylaxis,No,Moderate
+Food - Seafood,6.499395925304134,Monthly,Hives,Yes,Moderate
+Food - Wheat,15.975233144624212,Rarely,Shortness of breath,Yes,Severe
+Food - Seafood,2.384065476081126,Rarely,Anaphylaxis,No,Mild
+Food - Wheat,7.205390763642058,Rarely,Itchy skin,Yes,Moderate
+Environmental - Pollen,11.886059375322604,Rarely,Hives,No,Moderate
+Food - Seafood,17.827620146171704,Rarely,Nasal congestion,No,Severe
+Environmental - Insect,9.67124869463506,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Insect,7.224002366534008,Seasonal,Hives,Yes,Moderate
+Environmental - Mold,19.40578534720295,Monthly,Rash,Yes,Severe
+Food - Dairy,2.7599304979187798,Daily,Rash,Yes,Mild
+Food - Wheat,0.0,Seasonal,Itchy skin,Yes,Mild
+Food - Wheat,12.200072250266661,Rarely,Swelling,No,Moderate
+Food - Dairy,7.489728878236944,Seasonal,Rash,Yes,Moderate
+Environmental - Dust,4.893835914346434,Seasonal,Rash,Yes,Mild
+Environmental - Mold,13.541782236496767,Rarely,Itchy skin,Yes,Moderate
+Environmental - Dust,11.219003568855994,Rarely,Hives,No,Moderate
+Environmental - Dust,7.179606846316358,Rarely,Swelling,Yes,Moderate
+Environmental - Dust,3.5984780066455277,Monthly,Anaphylaxis,No,Mild
+Food - Dairy,14.362286641400724,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Dust,13.251005889793305,Monthly,Shortness of breath,Yes,Moderate
+Environmental - Insect,9.504120681103085,Rarely,Nasal congestion,No,Moderate
+Food - Nuts,19.233184980238327,Monthly,Rash,Yes,Severe
+Environmental - Pollen,4.649576168369237,Seasonal,Itchy skin,Yes,Mild
+Food - Wheat,2.3723741453763054,Daily,Shortness of breath,No,Mild
+Food - Wheat,6.540459650593778,Seasonal,Nasal congestion,Yes,Moderate
+Environmental - Pollen,9.772069918222511,Seasonal,Nasal congestion,No,Moderate
+Food - Dairy,11.216697246613458,Rarely,Anaphylaxis,No,Moderate
+Food - Seafood,8.793819710718351,Monthly,Anaphylaxis,No,Moderate
+Food - Dairy,11.760276982571483,Daily,Anaphylaxis,No,Moderate
+Food - Wheat,3.74230287904778,Rarely,Coughing,No,Mild
+Food - Wheat,17.218823020366298,Rarely,Coughing,Yes,Severe
+Environmental - Pollen,9.589244108037157,Rarely,Nasal congestion,Yes,Moderate
+Environmental - Dust,15.586479157940637,Seasonal,Anaphylaxis,Yes,Severe
+Food - Dairy,11.713626731888521,Monthly,Rash,No,Moderate
+Food - Spices,12.28376609576892,Monthly,Shortness of breath,No,Moderate
+Environmental - Pollen,12.84883640116102,Daily,Shortness of breath,No,Moderate
+Environmental - Insect,12.238542800086574,Monthly,Coughing,No,Moderate
+Food - Wheat,13.21361379933772,Monthly,Nasal congestion,Yes,Moderate
+Environmental - Pollen,16.645762650662157,Rarely,Itchy skin,Yes,Severe
+Food - Dairy,10.982605848507351,Rarely,Hives,No,Moderate
+Food - Wheat,13.545018787942562,Seasonal,Hives,No,Moderate
+Food - Seafood,9.551321528563866,Rarely,Coughing,Yes,Moderate
+Environmental - Pollen,17.200586077247365,Rarely,Itchy skin,No,Severe
+Environmental - Mold,6.618038489703651,Rarely,Coughing,No,Moderate
+Food - Wheat,19.00470216455408,Rarely,Hives,No,Severe
+Food - Dairy,9.799210246778284,Seasonal,Itchy skin,Yes,Moderate
+Food - Nuts,2.8461244894097595,Rarely,Anaphylaxis,Yes,Mild
+Food - Spices,10.640522074553946,Daily,Nasal congestion,No,Moderate
+Environmental - Dust,6.594741712625596,Daily,Shortness of breath,Yes,Moderate
+Food - Dairy,14.20321774494362,Daily,Swelling,No,Moderate
+Environmental - Insect,6.736880103488046,Daily,Nasal congestion,No,Moderate
+Environmental - Insect,7.7690828339261016,Rarely,Anaphylaxis,Yes,Moderate
+Food - Nuts,0.552296345272346,Daily,Hives,No,Mild
+Environmental - Dust,7.7384684037546165,Rarely,Anaphylaxis,No,Moderate
+Environmental - Mold,0.0,Seasonal,Coughing,Yes,Mild
+Food - Nuts,2.0804858825713834,Daily,Itchy skin,No,Mild
+Food - Nuts,13.802073280721487,Monthly,Shortness of breath,No,Moderate
+Food - Wheat,13.929000793254161,Daily,Rash,No,Moderate
+Environmental - Insect,12.127287808924823,Daily,Coughing,Yes,Moderate
+Food - Wheat,5.165119284353935,Rarely,Nasal congestion,No,Moderate
+Food - Spices,9.7614432192901,Daily,Coughing,Yes,Moderate
+Environmental - Dust,9.981987304547157,Monthly,Nasal congestion,No,Moderate
+Environmental - Mold,4.208176554037286,Rarely,Rash,No,Mild
+Environmental - Mold,17.51699150883575,Rarely,Oral allergy syndrome,No,Severe
+Food - Dairy,14.386811452878357,Seasonal,Shortness of breath,No,Moderate
+Food - Nuts,8.89517913085168,Seasonal,Swelling,Yes,Moderate
+Food - Spices,10.134429194972654,Daily,Anaphylaxis,Yes,Moderate
+Environmental - Insect,11.041914039737762,Seasonal,Oral allergy syndrome,No,Moderate
+Environmental - Mold,0.0,Seasonal,Coughing,No,Mild
+Food - Spices,8.764113087397016,Seasonal,Anaphylaxis,No,Moderate
+Food - Seafood,6.590078760011007,Rarely,Oral allergy syndrome,No,Moderate
+Food - Seafood,4.991899950525422,Rarely,Itchy skin,No,Mild
+Food - Wheat,8.594498535570226,Rarely,Itchy skin,No,Moderate
+Environmental - Insect,18.988432634247612,Seasonal,Anaphylaxis,No,Severe
+Food - Dairy,13.20421430633505,Rarely,Nasal congestion,No,Moderate
+Environmental - Mold,7.144105051086016,Seasonal,Nasal congestion,Yes,Moderate
+Food - Nuts,12.862913906780793,Rarely,Coughing,Yes,Moderate
+Food - Nuts,16.99677718293001,Rarely,Oral allergy syndrome,Yes,Severe
+Environmental - Mold,14.623168414563844,Monthly,Oral allergy syndrome,No,Moderate
+Environmental - Dust,10.29815184960087,Daily,Anaphylaxis,No,Moderate
+Food - Dairy,6.7653161114721305,Seasonal,Hives,No,Moderate
+Food - Spices,13.49111656806795,Monthly,Itchy skin,Yes,Moderate
+Environmental - Dust,11.967426927108749,Rarely,Oral allergy syndrome,No,Moderate
+Environmental - Dust,14.475966100138661,Seasonal,Anaphylaxis,Yes,Moderate
+Food - Wheat,13.175859008409848,Rarely,Rash,No,Moderate
+Food - Seafood,15.247763576596675,Daily,Swelling,Yes,Severe
+Environmental - Dust,7.32382394219716,Monthly,Rash,Yes,Moderate
+Environmental - Dust,16.586970328171628,Daily,Shortness of breath,Yes,Severe
+Environmental - Pollen,10.987998023461998,Monthly,Coughing,No,Moderate
+Food - Wheat,20.376304363126327,Rarely,Oral allergy syndrome,Yes,Severe
+Environmental - Insect,6.5540609095521605,Daily,Shortness of breath,No,Moderate
+Environmental - Pollen,18.679819015826247,Daily,Shortness of breath,No,Severe
+Environmental - Pollen,10.98955391731324,Rarely,Anaphylaxis,No,Moderate
+Environmental - Mold,6.742909981927758,Daily,Oral allergy syndrome,No,Moderate
+Food - Seafood,7.5805708297283925,Seasonal,Swelling,No,Moderate
+Environmental - Dust,8.3982634590284,Monthly,Anaphylaxis,Yes,Moderate
+Food - Seafood,12.120829732009582,Monthly,Anaphylaxis,No,Moderate
+Food - Dairy,12.614177440177498,Monthly,Coughing,No,Moderate
+Environmental - Mold,7.131499980307105,Seasonal,Coughing,No,Moderate
+Environmental - Insect,9.878227038695085,Monthly,Itchy skin,No,Moderate
+Food - Seafood,20.71135179305932,Rarely,Itchy skin,No,Severe
+Food - Nuts,18.637715850503557,Daily,Nasal congestion,Yes,Severe
+Food - Dairy,12.181618348370161,Seasonal,Hives,Yes,Moderate
+Food - Wheat,10.190017390841001,Monthly,Oral allergy syndrome,No,Moderate
+Environmental - Insect,10.600156633591306,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,13.067589863652083,Daily,Shortness of breath,Yes,Moderate
+Environmental - Mold,4.886037174007972,Daily,Oral allergy syndrome,No,Mild
+Environmental - Pollen,8.713117312883274,Seasonal,Oral allergy syndrome,Yes,Moderate
+Environmental - Pollen,1.6570796306120528,Seasonal,Hives,No,Mild
+Environmental - Mold,11.996115613026397,Seasonal,Itchy skin,Yes,Moderate
+Food - Spices,13.235979698513706,Rarely,Itchy skin,Yes,Moderate
+Environmental - Pollen,7.58406768850313,Rarely,Swelling,Yes,Moderate
+Food - Wheat,17.869933816450164,Seasonal,Oral allergy syndrome,No,Severe
+Food - Wheat,3.871171684988294,Monthly,Hives,Yes,Mild
+Food - Nuts,2.678125598950899,Daily,Itchy skin,Yes,Mild
+Environmental - Dust,11.12225909279986,Daily,Hives,No,Moderate
+Food - Spices,15.235491513060772,Rarely,Rash,No,Severe
+Environmental - Insect,18.419638457289345,Daily,Oral allergy syndrome,Yes,Severe
+Environmental - Pollen,7.7055786856553,Monthly,Swelling,No,Moderate
+Food - Wheat,15.39340416715648,Daily,Shortness of breath,Yes,Severe
+Environmental - Mold,9.807457652496463,Rarely,Itchy skin,Yes,Moderate
+Environmental - Pollen,9.136863500295902,Rarely,Rash,No,Moderate
+Environmental - Dust,14.418299687433361,Monthly,Hives,No,Moderate
+Environmental - Mold,13.261614392067099,Monthly,Coughing,No,Moderate
+Food - Dairy,2.1180392150787526,Daily,Anaphylaxis,Yes,Mild
+Food - Dairy,17.38270174862948,Daily,Oral allergy syndrome,No,Severe
+Environmental - Pollen,16.900456770737257,Rarely,Oral allergy syndrome,Yes,Severe
+Environmental - Dust,6.872186492452353,Monthly,Rash,No,Moderate
+Food - Spices,11.979017667187046,Monthly,Hives,Yes,Moderate
+Environmental - Pollen,12.470150931413695,Monthly,Nasal congestion,No,Moderate
+Food - Wheat,11.303368829119535,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Seafood,7.248474230772899,Monthly,Nasal congestion,No,Moderate
+Environmental - Pollen,6.641883160309742,Rarely,Coughing,Yes,Moderate
+Environmental - Pollen,9.872229645042774,Rarely,Rash,No,Moderate
+Environmental - Mold,15.863645096296823,Daily,Hives,No,Severe
+Food - Seafood,12.718000772972161,Seasonal,Hives,Yes,Moderate
+Food - Wheat,8.14692833956947,Daily,Anaphylaxis,No,Moderate
+Environmental - Pollen,13.858493553241724,Seasonal,Itchy skin,Yes,Moderate
+Environmental - Mold,0.0,Monthly,Itchy skin,Yes,Mild
+Environmental - Dust,15.743828501860516,Daily,Shortness of breath,No,Severe
+Environmental - Pollen,1.3014311061095025,Rarely,Swelling,Yes,Mild
+Food - Seafood,8.187795292984339,Monthly,Rash,No,Moderate
+Food - Nuts,4.401650526869281,Rarely,Coughing,No,Mild
+Food - Seafood,3.526592621395471,Monthly,Hives,Yes,Mild
+Food - Dairy,15.804133936892597,Daily,Anaphylaxis,No,Severe
+Food - Wheat,7.661493993440543,Seasonal,Nasal congestion,Yes,Moderate
+Environmental - Insect,11.732519408653578,Monthly,Rash,Yes,Moderate
+Environmental - Pollen,9.76539710560408,Seasonal,Shortness of breath,No,Moderate
+Food - Seafood,12.385204136115608,Monthly,Rash,No,Moderate
+Environmental - Insect,10.384109455301276,Rarely,Shortness of breath,Yes,Moderate
+Environmental - Mold,3.5850388790571515,Rarely,Hives,Yes,Mild
+Food - Nuts,14.981334097235699,Monthly,Swelling,No,Moderate
+Food - Wheat,7.531217084193438,Seasonal,Shortness of breath,No,Moderate
+Food - Seafood,2.217090506701245,Daily,Hives,No,Mild
+Environmental - Insect,7.859424195170437,Daily,Hives,No,Moderate
+Food - Nuts,17.503798953171554,Rarely,Swelling,Yes,Severe
+Food - Dairy,14.251108710567465,Daily,Itchy skin,No,Moderate
+Food - Wheat,8.256739327960704,Rarely,Rash,Yes,Moderate
+Food - Wheat,8.253711478407856,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,8.391824743913087,Monthly,Oral allergy syndrome,No,Moderate
+Environmental - Pollen,20.383739917804206,Rarely,Nasal congestion,Yes,Severe
+Food - Dairy,11.909677261157768,Rarely,Nasal congestion,No,Moderate
+Food - Wheat,12.150208235955349,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Wheat,15.151417270159211,Rarely,Coughing,No,Severe
+Environmental - Insect,11.193945795132567,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Nuts,8.704789270896484,Daily,Nasal congestion,Yes,Moderate
+Food - Dairy,9.018250754575108,Rarely,Anaphylaxis,No,Moderate
+Food - Nuts,9.64199370292968,Daily,Nasal congestion,No,Moderate
+Food - Dairy,9.813888817450792,Seasonal,Coughing,Yes,Moderate
+Environmental - Mold,13.6381477181849,Rarely,Rash,Yes,Moderate
+Food - Wheat,10.259729429036497,Monthly,Oral allergy syndrome,No,Moderate
+Environmental - Insect,13.663200386077897,Seasonal,Swelling,Yes,Moderate
+Food - Nuts,9.596417099457089,Rarely,Anaphylaxis,No,Moderate
+Food - Dairy,10.393175951580453,Monthly,Hives,Yes,Moderate
+Food - Spices,0.008996577339461354,Daily,Coughing,No,Mild
+Environmental - Mold,14.581638373512408,Monthly,Nasal congestion,Yes,Moderate
+Food - Seafood,11.732442379489964,Seasonal,Swelling,No,Moderate
+Environmental - Pollen,14.99005054929826,Daily,Shortness of breath,No,Moderate
+Food - Nuts,0.0,Rarely,Itchy skin,Yes,Mild
+Environmental - Insect,20.441873523903638,Daily,Oral allergy syndrome,No,Severe
+Food - Seafood,9.30205185922413,Rarely,Itchy skin,Yes,Moderate
+Food - Spices,15.540914083687582,Rarely,Coughing,No,Severe
+Environmental - Pollen,4.800470364372345,Monthly,Shortness of breath,No,Mild
+Food - Spices,13.063869525312848,Monthly,Shortness of breath,No,Moderate
+Food - Seafood,4.732922184131719,Monthly,Shortness of breath,Yes,Mild
+Environmental - Pollen,6.881155196520974,Seasonal,Hives,No,Moderate
+Food - Spices,19.57015676933393,Seasonal,Coughing,Yes,Severe
+Environmental - Insect,9.046587996183266,Monthly,Rash,No,Moderate
+Food - Dairy,11.087164365898614,Seasonal,Itchy skin,Yes,Moderate
+Food - Wheat,14.350338653443771,Daily,Rash,Yes,Moderate
+Food - Dairy,12.478409439863023,Daily,Swelling,Yes,Moderate
+Food - Seafood,10.752094525717883,Seasonal,Anaphylaxis,No,Moderate
+Food - Nuts,11.824805012331128,Seasonal,Anaphylaxis,Yes,Moderate
+Food - Wheat,22.017077926191376,Daily,Rash,No,Severe
+Environmental - Mold,9.711906014832072,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Insect,11.005495233574837,Daily,Swelling,Yes,Moderate
+Environmental - Mold,15.253271980038061,Daily,Coughing,Yes,Severe
+Environmental - Pollen,15.52762966478992,Seasonal,Nasal congestion,Yes,Severe
+Food - Wheat,15.935151527801901,Daily,Anaphylaxis,No,Severe
+Environmental - Mold,13.193651110145924,Seasonal,Nasal congestion,Yes,Moderate
+Environmental - Mold,4.284975436347582,Seasonal,Swelling,Yes,Mild
+Food - Spices,18.167157661505478,Monthly,Itchy skin,No,Severe
+Food - Dairy,4.26827303490656,Daily,Anaphylaxis,Yes,Mild
+Food - Spices,11.513177326195166,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Wheat,6.228620749903211,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Wheat,9.679308267035037,Seasonal,Shortness of breath,Yes,Moderate
+Food - Seafood,11.643812051517402,Seasonal,Hives,No,Moderate
+Food - Spices,11.606786077251366,Rarely,Swelling,No,Moderate
+Environmental - Dust,12.109603771176424,Seasonal,Anaphylaxis,Yes,Moderate
+Food - Dairy,18.068556345293235,Daily,Hives,No,Severe
+Food - Wheat,12.267671507569899,Monthly,Swelling,No,Moderate
+Food - Seafood,8.779216823546756,Seasonal,Rash,Yes,Moderate
+Food - Spices,14.820435841441785,Seasonal,Coughing,No,Moderate
+Food - Dairy,15.947352444623203,Rarely,Coughing,Yes,Severe
+Food - Spices,3.8619609243150377,Daily,Shortness of breath,No,Mild
+Environmental - Mold,12.98700034924929,Seasonal,Shortness of breath,No,Moderate
+Food - Seafood,13.505863711554492,Rarely,Coughing,No,Moderate
+Food - Dairy,8.512182483200041,Seasonal,Itchy skin,Yes,Moderate
+Environmental - Pollen,16.878534066558096,Rarely,Anaphylaxis,No,Severe
+Environmental - Pollen,9.249722064837366,Rarely,Coughing,Yes,Moderate
+Food - Dairy,10.62788226735771,Daily,Itchy skin,Yes,Moderate
+Food - Spices,9.134640878580653,Seasonal,Hives,No,Moderate
+Food - Seafood,10.077895237907338,Daily,Itchy skin,Yes,Moderate
+Environmental - Pollen,4.518624565523991,Rarely,Hives,No,Mild
+Food - Seafood,2.7997455870285286,Monthly,Swelling,Yes,Mild
+Environmental - Pollen,17.97252531612486,Seasonal,Nasal congestion,Yes,Severe
+Environmental - Mold,5.765193258408361,Monthly,Swelling,No,Moderate
+Food - Spices,5.043038252718464,Seasonal,Coughing,No,Moderate
+Environmental - Mold,0.0,Daily,Hives,No,Mild
+Environmental - Pollen,6.805191261552489,Daily,Coughing,No,Moderate
+Environmental - Mold,3.3845510329625084,Daily,Anaphylaxis,Yes,Mild
+Environmental - Pollen,18.210075800681846,Daily,Oral allergy syndrome,Yes,Severe
+Food - Dairy,15.049085446713171,Daily,Coughing,Yes,Severe
+Environmental - Mold,6.559248274111381,Monthly,Anaphylaxis,No,Moderate
+Food - Nuts,21.262179026721544,Daily,Itchy skin,Yes,Severe
+Food - Spices,14.90882743495797,Rarely,Swelling,No,Moderate
+Food - Wheat,8.375843082456887,Rarely,Itchy skin,Yes,Moderate
+Environmental - Dust,0.0,Monthly,Oral allergy syndrome,No,Mild
+Environmental - Mold,21.45471286295371,Seasonal,Hives,Yes,Severe
+Environmental - Insect,3.05213766618202,Rarely,Anaphylaxis,Yes,Mild
+Food - Spices,1.7730062652155407,Seasonal,Nasal congestion,No,Mild
+Food - Nuts,15.112852160048202,Monthly,Coughing,Yes,Severe
+Food - Nuts,22.198762031696365,Seasonal,Hives,No,Severe
+Environmental - Pollen,16.92136409255259,Seasonal,Nasal congestion,Yes,Severe
+Environmental - Pollen,12.819545600261797,Seasonal,Rash,Yes,Moderate
+Environmental - Dust,12.97377170832643,Seasonal,Coughing,No,Moderate
+Food - Dairy,14.267077793901539,Monthly,Itchy skin,No,Moderate
+Environmental - Insect,13.794642948933825,Rarely,Swelling,Yes,Moderate
+Food - Wheat,11.405957119846878,Daily,Anaphylaxis,Yes,Moderate
+Environmental - Dust,10.521005519759381,Seasonal,Oral allergy syndrome,Yes,Moderate
+Food - Seafood,9.687034360502388,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Wheat,6.230177055666619,Rarely,Itchy skin,Yes,Moderate
+Environmental - Mold,8.59662461566613,Monthly,Shortness of breath,Yes,Moderate
+Food - Spices,1.5352159290230727,Rarely,Oral allergy syndrome,No,Mild
+Food - Seafood,9.508301866026251,Monthly,Anaphylaxis,No,Moderate
+Food - Seafood,5.057044464245413,Seasonal,Itchy skin,No,Moderate
+Environmental - Dust,4.482053413921145,Seasonal,Hives,Yes,Mild
+Food - Dairy,10.899470755767393,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Dust,16.960011431722997,Daily,Itchy skin,Yes,Severe
+Environmental - Mold,14.591583030011565,Daily,Anaphylaxis,No,Moderate
+Food - Dairy,2.1474969818841148,Rarely,Coughing,No,Mild
+Environmental - Mold,5.051859317148312,Seasonal,Coughing,Yes,Moderate
+Food - Dairy,14.703855939941079,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Nuts,5.087563032308452,Daily,Swelling,No,Moderate
+Food - Seafood,8.876834250014877,Monthly,Coughing,No,Moderate
+Environmental - Insect,12.75026049512276,Monthly,Swelling,No,Moderate
+Food - Spices,5.158277725681824,Daily,Hives,Yes,Moderate
+Environmental - Mold,10.526877530729799,Seasonal,Itchy skin,Yes,Moderate
+Food - Wheat,3.3298725254089776,Daily,Nasal congestion,Yes,Mild
+Food - Dairy,6.993161780243931,Monthly,Anaphylaxis,No,Moderate
+Food - Spices,11.598909670712684,Daily,Itchy skin,No,Moderate
+Food - Wheat,2.035031332341654,Monthly,Anaphylaxis,Yes,Mild
+Food - Spices,12.202373689801995,Monthly,Hives,Yes,Moderate
+Environmental - Insect,9.901811005366595,Daily,Rash,No,Moderate
+Food - Wheat,12.762449772085738,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Dust,11.119570670323307,Daily,Anaphylaxis,No,Moderate
+Environmental - Pollen,16.82070214986922,Rarely,Anaphylaxis,No,Severe
+Environmental - Dust,10.626122513239537,Monthly,Swelling,Yes,Moderate
+Environmental - Pollen,7.8529722943737355,Monthly,Itchy skin,No,Moderate
+Environmental - Dust,10.61148751516142,Rarely,Rash,Yes,Moderate
+Environmental - Pollen,12.71649014518194,Monthly,Shortness of breath,No,Moderate
+Environmental - Pollen,10.244300351628521,Rarely,Oral allergy syndrome,No,Moderate
+Food - Seafood,10.202958456019411,Rarely,Nasal congestion,Yes,Moderate
+Food - Dairy,6.490041560966223,Monthly,Shortness of breath,No,Moderate
+Food - Dairy,6.68549541224526,Seasonal,Itchy skin,Yes,Moderate
+Food - Seafood,2.9869736410015326,Rarely,Oral allergy syndrome,Yes,Mild
+Food - Spices,18.747883715934698,Daily,Anaphylaxis,No,Severe
+Food - Nuts,3.7806838230435744,Daily,Nasal congestion,Yes,Mild
+Food - Spices,6.535474011020463,Monthly,Swelling,Yes,Moderate
+Food - Wheat,6.407963672154013,Seasonal,Rash,Yes,Moderate
+Food - Wheat,14.474621884722207,Monthly,Swelling,Yes,Moderate
+Environmental - Pollen,8.525251608539861,Seasonal,Hives,Yes,Moderate
+Environmental - Dust,16.238710363368668,Rarely,Oral allergy syndrome,Yes,Severe
+Environmental - Dust,6.632546878780658,Rarely,Swelling,No,Moderate
+Food - Dairy,11.39497081111901,Rarely,Shortness of breath,Yes,Moderate
+Environmental - Mold,5.823264733701214,Rarely,Swelling,No,Moderate
+Food - Spices,20.72574563886694,Daily,Coughing,No,Severe
+Environmental - Insect,4.062007904852436,Daily,Hives,Yes,Mild
+Environmental - Dust,11.549103551135138,Monthly,Itchy skin,No,Moderate
+Environmental - Insect,13.168884404660492,Seasonal,Rash,No,Moderate
+Environmental - Pollen,12.068995487257492,Rarely,Hives,Yes,Moderate
+Environmental - Insect,9.073561705611459,Rarely,Coughing,Yes,Moderate
+Food - Seafood,9.350896501332869,Seasonal,Oral allergy syndrome,Yes,Moderate
+Environmental - Insect,10.219057359895547,Seasonal,Shortness of breath,No,Moderate
+Food - Nuts,9.264989991857558,Monthly,Rash,No,Moderate
+Environmental - Pollen,14.819395583974549,Seasonal,Rash,Yes,Moderate
+Food - Spices,21.052615007956756,Rarely,Hives,Yes,Severe
+Food - Seafood,7.212541074960832,Rarely,Oral allergy syndrome,No,Moderate
+Environmental - Dust,3.1509851021046114,Rarely,Anaphylaxis,No,Mild
+Food - Wheat,9.558589758243725,Rarely,Coughing,No,Moderate
+Food - Spices,22.898546688271594,Rarely,Anaphylaxis,No,Severe
+Food - Wheat,5.981627160151346,Monthly,Shortness of breath,Yes,Moderate
+Environmental - Pollen,18.195584027220338,Rarely,Oral allergy syndrome,No,Severe
+Food - Seafood,18.388504070382204,Monthly,Oral allergy syndrome,No,Severe
+Food - Dairy,7.232058791460027,Rarely,Coughing,No,Moderate
+Environmental - Dust,12.844915395926376,Daily,Nasal congestion,No,Moderate
+Food - Nuts,18.141983115642688,Daily,Anaphylaxis,Yes,Severe
+Food - Dairy,8.104361295062564,Daily,Swelling,Yes,Moderate
+Environmental - Pollen,8.982098199488192,Daily,Rash,No,Moderate
+Food - Spices,7.091595430256781,Monthly,Nasal congestion,No,Moderate
+Food - Nuts,4.926216346535666,Monthly,Swelling,Yes,Mild
+Environmental - Insect,6.7536122746699645,Seasonal,Coughing,Yes,Moderate
+Food - Nuts,3.8802986661887173,Rarely,Rash,No,Mild
+Environmental - Pollen,10.17041734129613,Daily,Itchy skin,No,Moderate
+Environmental - Mold,6.150133844706791,Monthly,Swelling,Yes,Moderate
+Environmental - Insect,11.168929558953739,Rarely,Nasal congestion,Yes,Moderate
+Food - Wheat,2.2205217689818637,Rarely,Swelling,Yes,Mild
+Environmental - Dust,11.654401161072286,Monthly,Swelling,Yes,Moderate
+Food - Wheat,14.167644808044624,Daily,Coughing,Yes,Moderate
+Food - Nuts,0.03132178714272271,Seasonal,Anaphylaxis,Yes,Mild
+Food - Wheat,11.87028284923786,Rarely,Itchy skin,No,Moderate
+Environmental - Pollen,16.13834496236646,Seasonal,Coughing,Yes,Severe
+Food - Spices,3.951794906543973,Daily,Shortness of breath,Yes,Mild
+Environmental - Dust,18.362861934188516,Daily,Coughing,Yes,Severe
+Food - Wheat,12.095095046830226,Seasonal,Rash,Yes,Moderate
+Food - Wheat,6.474940721207956,Daily,Itchy skin,No,Moderate
+Food - Nuts,9.72115461171147,Rarely,Oral allergy syndrome,No,Moderate
+Food - Spices,12.791634562608612,Seasonal,Shortness of breath,Yes,Moderate
+Food - Dairy,10.380026957062057,Daily,Hives,No,Moderate
+Food - Wheat,12.693779962231845,Seasonal,Coughing,No,Moderate
+Environmental - Pollen,5.396632034603169,Rarely,Swelling,No,Moderate
+Environmental - Mold,10.84680412018039,Daily,Anaphylaxis,No,Moderate
+Environmental - Dust,2.9314275154750993,Rarely,Oral allergy syndrome,No,Mild
+Food - Wheat,9.443869693256499,Daily,Coughing,No,Moderate
+Environmental - Pollen,5.480461792676051,Monthly,Coughing,Yes,Moderate
+Environmental - Pollen,6.322350287051167,Daily,Nasal congestion,Yes,Moderate
+Environmental - Dust,16.18046587605219,Seasonal,Nasal congestion,Yes,Severe
+Food - Dairy,15.456550602971344,Daily,Oral allergy syndrome,Yes,Severe
+Environmental - Pollen,13.045690604535885,Rarely,Nasal congestion,Yes,Moderate
+Environmental - Mold,4.538436176637105,Rarely,Swelling,No,Mild
+Environmental - Pollen,8.417957751525991,Daily,Shortness of breath,Yes,Moderate
+Environmental - Pollen,16.065488499895917,Seasonal,Hives,Yes,Severe
+Environmental - Pollen,10.708584568199523,Monthly,Itchy skin,No,Moderate
+Food - Dairy,21.596647699908473,Seasonal,Hives,No,Severe
+Food - Wheat,11.96658919697186,Monthly,Hives,Yes,Moderate
+Environmental - Pollen,10.960245582450158,Rarely,Itchy skin,No,Moderate
+Food - Spices,8.454417678987493,Seasonal,Nasal congestion,No,Moderate
+Food - Wheat,10.66770452391141,Monthly,Oral allergy syndrome,No,Moderate
+Food - Dairy,9.237650818097281,Daily,Itchy skin,No,Moderate
+Food - Seafood,13.540543383442952,Rarely,Rash,Yes,Moderate
+Food - Wheat,14.78351158397292,Daily,Shortness of breath,No,Moderate
+Food - Wheat,6.070052697460253,Rarely,Anaphylaxis,Yes,Moderate
+Environmental - Insect,3.3438352322111093,Seasonal,Nasal congestion,Yes,Mild
+Food - Nuts,0.8189731344835174,Seasonal,Itchy skin,No,Mild
+Environmental - Insect,12.539956634562719,Rarely,Rash,No,Moderate
+Environmental - Mold,4.483166969130632,Rarely,Anaphylaxis,No,Mild
+Food - Nuts,0.0,Rarely,Shortness of breath,Yes,Mild
+Environmental - Dust,11.94289302265482,Seasonal,Shortness of breath,No,Moderate
+Environmental - Dust,22.464997587163953,Monthly,Nasal congestion,No,Severe
+Food - Dairy,9.969645442300534,Daily,Itchy skin,No,Moderate
+Food - Nuts,14.19245387225821,Daily,Oral allergy syndrome,No,Moderate
+Food - Wheat,10.409146792737825,Seasonal,Shortness of breath,No,Moderate
+Environmental - Dust,9.505551734044287,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Pollen,14.595382414938843,Rarely,Oral allergy syndrome,No,Moderate
+Food - Spices,8.548627279056744,Monthly,Nasal congestion,No,Moderate
+Food - Wheat,11.336961570359515,Daily,Anaphylaxis,No,Moderate
+Environmental - Mold,11.608489030980069,Monthly,Coughing,Yes,Moderate
+Environmental - Pollen,6.659547731784756,Rarely,Hives,No,Moderate
+Environmental - Pollen,14.960211747682614,Daily,Hives,Yes,Moderate
+Food - Nuts,9.125201216522957,Seasonal,Shortness of breath,Yes,Moderate
+Food - Dairy,6.221274202535776,Monthly,Coughing,No,Moderate
+Environmental - Mold,12.682549217852017,Rarely,Anaphylaxis,No,Moderate
+Environmental - Dust,5.507660091044814,Monthly,Coughing,No,Moderate
+Food - Nuts,10.140905786845641,Daily,Nasal congestion,Yes,Moderate
+Environmental - Dust,9.954405016778983,Daily,Shortness of breath,Yes,Moderate
+Food - Nuts,15.42947782915789,Seasonal,Oral allergy syndrome,Yes,Severe
+Food - Nuts,12.373491164399764,Rarely,Shortness of breath,Yes,Moderate
+Food - Nuts,9.874865206274281,Rarely,Hives,Yes,Moderate
+Food - Dairy,14.088831496001436,Seasonal,Anaphylaxis,Yes,Moderate
+Food - Nuts,16.951037745086566,Seasonal,Coughing,No,Severe
+Food - Seafood,12.789051531759311,Rarely,Anaphylaxis,No,Moderate
+Food - Spices,10.051763099216902,Monthly,Nasal congestion,Yes,Moderate
+Environmental - Dust,3.4408188382492018,Monthly,Shortness of breath,No,Mild
+Food - Wheat,4.674431684623137,Seasonal,Itchy skin,No,Mild
+Environmental - Insect,8.473876478226662,Monthly,Shortness of breath,Yes,Moderate
+Environmental - Mold,6.952438989203584,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,9.06514348507277,Daily,Shortness of breath,No,Moderate
+Food - Wheat,10.283249624485535,Daily,Rash,Yes,Moderate
+Environmental - Pollen,12.648463771783653,Monthly,Nasal congestion,Yes,Moderate
+Food - Seafood,9.647506109704544,Seasonal,Swelling,No,Moderate
+Environmental - Insect,12.432508219131009,Seasonal,Nasal congestion,Yes,Moderate
+Food - Wheat,10.322372074050602,Seasonal,Coughing,No,Moderate
+Food - Wheat,0.1226671682306435,Seasonal,Swelling,No,Mild
+Food - Seafood,5.3033230309062285,Seasonal,Coughing,No,Moderate
+Environmental - Insect,9.279562221391922,Monthly,Coughing,No,Moderate
+Environmental - Pollen,3.951526285794462,Daily,Oral allergy syndrome,No,Mild
+Food - Nuts,12.999643649981023,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Dust,17.65375416171849,Monthly,Hives,Yes,Severe
+Environmental - Pollen,16.093809258486584,Seasonal,Hives,Yes,Severe
+Food - Nuts,8.932785645348961,Monthly,Itchy skin,Yes,Moderate
+Food - Dairy,17.45363068424976,Daily,Swelling,No,Severe
+Food - Spices,10.743337286010558,Rarely,Anaphylaxis,No,Moderate
+Environmental - Mold,8.314570144409803,Monthly,Shortness of breath,Yes,Moderate
+Environmental - Mold,6.932986682295301,Seasonal,Shortness of breath,No,Moderate
+Environmental - Dust,8.487651567559357,Daily,Coughing,Yes,Moderate
+Environmental - Insect,8.059115907293856,Daily,Hives,Yes,Moderate
+Food - Seafood,10.852081111877439,Daily,Coughing,Yes,Moderate
+Environmental - Insect,10.802869905249324,Daily,Rash,No,Moderate
+Food - Seafood,10.015230100767072,Seasonal,Rash,No,Moderate
+Environmental - Insect,12.18469084873175,Rarely,Anaphylaxis,No,Moderate
+Food - Spices,15.953231373931708,Daily,Oral allergy syndrome,No,Severe
+Food - Dairy,14.747770677206619,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,2.5755101577504824,Rarely,Hives,No,Mild
+Food - Nuts,0.0,Daily,Hives,No,Mild
+Food - Dairy,14.67159955619637,Rarely,Rash,No,Moderate
+Food - Dairy,3.1656065079228943,Monthly,Oral allergy syndrome,Yes,Mild
+Environmental - Pollen,8.876172990536583,Daily,Swelling,Yes,Moderate
+Environmental - Pollen,4.149434869703202,Monthly,Swelling,No,Mild
+Food - Nuts,0.9900978120999007,Seasonal,Hives,No,Mild
+Environmental - Dust,12.70731364102394,Daily,Coughing,No,Moderate
+Environmental - Pollen,13.795775801513233,Daily,Oral allergy syndrome,No,Moderate
+Environmental - Dust,7.117447996366403,Daily,Swelling,Yes,Moderate
+Food - Wheat,0.0,Daily,Oral allergy syndrome,No,Mild
+Environmental - Pollen,7.268777758737587,Seasonal,Nasal congestion,No,Moderate
+Food - Spices,11.959020027012732,Daily,Shortness of breath,No,Moderate
+Food - Nuts,2.6054421561293566,Rarely,Rash,Yes,Mild
+Food - Wheat,10.916799598895778,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Spices,9.923450754135022,Seasonal,Shortness of breath,No,Moderate
+Food - Spices,12.896457498005443,Daily,Nasal congestion,No,Moderate
+Food - Spices,10.597901842070765,Rarely,Oral allergy syndrome,No,Moderate
+Environmental - Dust,5.134655295592222,Seasonal,Hives,No,Moderate
+Environmental - Insect,15.982857508322457,Seasonal,Shortness of breath,No,Severe
+Food - Wheat,9.20735213486515,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Seafood,9.86347730245034,Rarely,Shortness of breath,Yes,Moderate
+Food - Wheat,5.33366020463402,Rarely,Nasal congestion,Yes,Moderate
+Environmental - Insect,7.783588744042449,Rarely,Oral allergy syndrome,No,Moderate
+Food - Wheat,5.5759864298654955,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,9.135269700382885,Seasonal,Oral allergy syndrome,Yes,Moderate
+Food - Seafood,18.558542400711715,Seasonal,Anaphylaxis,Yes,Severe
+Environmental - Insect,3.140494285343218,Daily,Hives,No,Mild
+Environmental - Dust,1.9321930106162952,Daily,Nasal congestion,No,Mild
+Environmental - Mold,17.355851637468042,Monthly,Anaphylaxis,Yes,Severe
+Environmental - Insect,8.95338161424067,Daily,Coughing,No,Moderate
+Food - Nuts,6.654636306700417,Daily,Anaphylaxis,Yes,Moderate
+Environmental - Insect,15.199523436980382,Rarely,Rash,Yes,Severe
+Food - Dairy,6.971922301315679,Rarely,Rash,Yes,Moderate
+Environmental - Mold,19.130048567734683,Daily,Oral allergy syndrome,Yes,Severe
+Food - Dairy,13.389629356696346,Monthly,Anaphylaxis,No,Moderate
+Environmental - Mold,7.560442959271487,Rarely,Coughing,No,Moderate
+Food - Nuts,20.786541066327516,Daily,Anaphylaxis,No,Severe
+Environmental - Dust,6.971425384983307,Daily,Hives,No,Moderate
+Food - Dairy,13.710476860046535,Seasonal,Hives,Yes,Moderate
+Food - Dairy,11.496462902032459,Monthly,Coughing,No,Moderate
+Food - Spices,16.50870644699399,Seasonal,Anaphylaxis,Yes,Severe
+Environmental - Mold,17.807555983634263,Monthly,Shortness of breath,No,Severe
+Environmental - Pollen,10.160020745328833,Rarely,Hives,No,Moderate
+Environmental - Mold,6.232910648269083,Monthly,Hives,No,Moderate
+Food - Spices,12.299860714695582,Daily,Swelling,Yes,Moderate
+Food - Wheat,6.611423151239469,Daily,Anaphylaxis,Yes,Moderate
+Environmental - Mold,20.066936237633115,Monthly,Hives,Yes,Severe
+Environmental - Dust,10.682676655413687,Monthly,Nasal congestion,Yes,Moderate
+Food - Spices,8.173392243439457,Monthly,Anaphylaxis,No,Moderate
+Food - Wheat,10.923401529324542,Seasonal,Rash,Yes,Moderate
+Food - Seafood,3.2643685523515176,Monthly,Swelling,Yes,Mild
+Food - Spices,5.1419298074467426,Rarely,Hives,No,Moderate
+Food - Seafood,16.00206953972213,Seasonal,Swelling,No,Severe
+Food - Dairy,6.715528605143021,Seasonal,Rash,Yes,Moderate
+Food - Spices,4.765445086590302,Monthly,Coughing,No,Mild
+Food - Nuts,12.68326376263643,Rarely,Coughing,Yes,Moderate
+Food - Seafood,15.928520773314984,Seasonal,Anaphylaxis,No,Severe
+Environmental - Dust,13.594766553325334,Daily,Rash,Yes,Moderate
+Food - Nuts,14.980238429029082,Seasonal,Itchy skin,Yes,Moderate
+Environmental - Insect,6.216024557152696,Monthly,Itchy skin,Yes,Moderate
+Environmental - Insect,2.8909466662907812,Rarely,Anaphylaxis,Yes,Mild
+Food - Wheat,17.506668259777435,Monthly,Oral allergy syndrome,Yes,Severe
+Food - Dairy,8.386600805789321,Daily,Swelling,No,Moderate
+Food - Spices,8.745834917724764,Daily,Swelling,Yes,Moderate
+Environmental - Pollen,16.640970709245288,Daily,Coughing,Yes,Severe
+Environmental - Dust,12.7811500470033,Monthly,Itchy skin,Yes,Moderate
+Food - Seafood,12.279438860408039,Seasonal,Hives,Yes,Moderate
+Food - Nuts,20.82501172450542,Monthly,Hives,Yes,Severe
+Environmental - Insect,6.782408848099285,Rarely,Hives,No,Moderate
+Environmental - Dust,14.639200640406186,Seasonal,Coughing,No,Moderate
+Environmental - Pollen,10.285065624485423,Daily,Rash,Yes,Moderate
+Food - Spices,11.342961394316285,Monthly,Shortness of breath,No,Moderate
+Food - Wheat,17.64234213206266,Daily,Itchy skin,Yes,Severe
+Environmental - Pollen,12.539178781448118,Daily,Itchy skin,No,Moderate
+Environmental - Dust,12.691480395248165,Rarely,Swelling,No,Moderate
+Environmental - Pollen,15.36253668654901,Seasonal,Oral allergy syndrome,Yes,Severe
+Environmental - Dust,8.175236352285573,Rarely,Anaphylaxis,No,Moderate
+Environmental - Dust,5.803951663304968,Rarely,Swelling,No,Moderate
+Environmental - Mold,4.775954029894832,Rarely,Rash,Yes,Mild
+Food - Seafood,0.16821705311999047,Daily,Anaphylaxis,Yes,Mild
+Environmental - Insect,20.28103564970161,Rarely,Itchy skin,No,Severe
+Environmental - Mold,4.483958171391585,Rarely,Rash,No,Mild
+Food - Spices,8.89373188207114,Seasonal,Anaphylaxis,No,Moderate
+Environmental - Mold,8.615933500555396,Seasonal,Nasal congestion,Yes,Moderate
+Food - Dairy,11.537033489045504,Rarely,Shortness of breath,No,Moderate
+Food - Dairy,14.078686062696484,Seasonal,Itchy skin,No,Moderate
+Environmental - Insect,14.302367441798726,Seasonal,Oral allergy syndrome,No,Moderate
+Environmental - Pollen,7.084612807155308,Rarely,Hives,Yes,Moderate
+Food - Seafood,9.164391431067942,Daily,Nasal congestion,Yes,Moderate
+Environmental - Insect,11.412899752441499,Rarely,Hives,Yes,Moderate
+Environmental - Dust,8.756544369082265,Seasonal,Shortness of breath,Yes,Moderate
+Food - Nuts,18.036727880099964,Daily,Anaphylaxis,No,Severe
+Food - Seafood,12.454874758191256,Monthly,Coughing,Yes,Moderate
+Food - Seafood,13.674388930249087,Daily,Oral allergy syndrome,No,Moderate
+Environmental - Dust,13.314406343337064,Seasonal,Shortness of breath,No,Moderate
+Environmental - Dust,15.867369287426625,Daily,Hives,No,Severe
+Food - Wheat,10.905107793518535,Rarely,Nasal congestion,No,Moderate
+Environmental - Insect,3.5158402602207675,Monthly,Itchy skin,Yes,Mild
+Environmental - Dust,11.998439758763208,Monthly,Nasal congestion,Yes,Moderate
+Food - Dairy,6.743215531040855,Monthly,Nasal congestion,Yes,Moderate
+Food - Spices,7.356916591251216,Seasonal,Coughing,Yes,Moderate
+Food - Nuts,12.931820093775466,Seasonal,Coughing,Yes,Moderate
+Environmental - Insect,16.19141535716818,Monthly,Rash,No,Severe
+Food - Dairy,10.106357883680309,Daily,Rash,Yes,Moderate
+Environmental - Pollen,11.54416506299482,Monthly,Anaphylaxis,Yes,Moderate
+Environmental - Dust,18.51107472317619,Daily,Rash,Yes,Severe
+Environmental - Dust,11.20376589744284,Daily,Swelling,Yes,Moderate
+Food - Seafood,23.008415570901974,Seasonal,Oral allergy syndrome,No,Severe
+Food - Dairy,12.82754822815772,Daily,Swelling,No,Moderate
+Food - Seafood,1.1961862042209113,Monthly,Swelling,No,Mild
+Food - Wheat,13.766708105522662,Seasonal,Hives,No,Moderate
+Food - Seafood,11.905791924413888,Rarely,Shortness of breath,No,Moderate
+Food - Wheat,16.448763770413727,Rarely,Swelling,Yes,Severe
+Food - Wheat,13.365906756349792,Seasonal,Oral allergy syndrome,No,Moderate
+Environmental - Dust,9.30772008008113,Monthly,Coughing,No,Moderate
+Environmental - Pollen,3.878508818553171,Rarely,Anaphylaxis,No,Mild
+Food - Seafood,8.954883713569874,Rarely,Hives,Yes,Moderate
+Food - Dairy,5.7473977289535,Daily,Coughing,Yes,Moderate
+Food - Wheat,7.0973827509763865,Daily,Hives,No,Moderate
+Environmental - Dust,12.942892022103049,Monthly,Oral allergy syndrome,Yes,Moderate
+Food - Nuts,18.34952252175703,Seasonal,Nasal congestion,Yes,Severe
+Environmental - Insect,11.973357649114906,Monthly,Itchy skin,No,Moderate
+Environmental - Pollen,4.020584689824078,Seasonal,Shortness of breath,Yes,Mild
+Environmental - Mold,12.223013341100703,Rarely,Coughing,Yes,Moderate
+Food - Nuts,15.983157433228255,Daily,Shortness of breath,Yes,Severe
+Environmental - Insect,6.951085478403089,Monthly,Nasal congestion,No,Moderate
+Food - Nuts,9.329914166635412,Monthly,Itchy skin,No,Moderate
+Food - Seafood,10.073440973645985,Seasonal,Shortness of breath,No,Moderate
+Food - Wheat,6.0755084345888,Seasonal,Shortness of breath,Yes,Moderate
+Environmental - Pollen,13.241402169219295,Monthly,Coughing,No,Moderate
+Food - Spices,9.395259256961092,Seasonal,Rash,Yes,Moderate
+Food - Wheat,12.097662219535138,Monthly,Itchy skin,Yes,Moderate
+Food - Spices,5.5625391109894995,Monthly,Nasal congestion,Yes,Moderate
+Environmental - Insect,7.812708498382948,Monthly,Itchy skin,No,Moderate
+Environmental - Dust,13.611906789138857,Rarely,Oral allergy syndrome,No,Moderate
+Environmental - Mold,8.135834239541165,Seasonal,Rash,No,Moderate
+Food - Dairy,18.634819256167027,Daily,Oral allergy syndrome,No,Severe
+Food - Wheat,8.001819071926988,Daily,Nasal congestion,Yes,Moderate
+Environmental - Pollen,11.12342362875943,Seasonal,Coughing,No,Moderate
+Food - Nuts,14.66295415936545,Monthly,Coughing,Yes,Moderate
+Environmental - Pollen,2.908171335334842,Daily,Nasal congestion,No,Mild
+Environmental - Insect,1.1959559400961197,Daily,Hives,No,Mild
+Food - Spices,2.371718427149526,Seasonal,Nasal congestion,No,Mild
+Food - Nuts,16.31292051713591,Daily,Rash,Yes,Severe
+Food - Dairy,7.240709270537766,Monthly,Swelling,Yes,Moderate
+Food - Dairy,22.79099642834126,Seasonal,Coughing,Yes,Severe
+Food - Wheat,7.1787620067130575,Monthly,Anaphylaxis,Yes,Moderate
+Environmental - Insect,10.922756515985185,Daily,Rash,Yes,Moderate
+Environmental - Dust,17.710549762839378,Daily,Rash,No,Severe
+Environmental - Insect,20.030464440795615,Monthly,Rash,Yes,Severe
+Food - Spices,20.307517883181987,Rarely,Shortness of breath,Yes,Severe
+Environmental - Pollen,16.041831152965713,Daily,Rash,Yes,Severe
+Food - Dairy,15.120312629057313,Rarely,Coughing,Yes,Severe
+Environmental - Pollen,12.962634746005914,Daily,Swelling,No,Moderate
+Environmental - Pollen,13.891805380833189,Rarely,Swelling,Yes,Moderate
+Environmental - Pollen,7.244071418357333,Rarely,Rash,No,Moderate
+Food - Dairy,5.909005582888464,Rarely,Oral allergy syndrome,No,Moderate
+Food - Seafood,9.98312771294524,Monthly,Coughing,No,Moderate
+Food - Spices,9.149076887375358,Rarely,Coughing,Yes,Moderate
+Food - Spices,7.733859753363625,Rarely,Itchy skin,No,Moderate
+Food - Nuts,13.481937237283576,Rarely,Hives,Yes,Moderate
+Environmental - Insect,14.776526042852554,Daily,Hives,Yes,Moderate
+Environmental - Insect,10.442034431459236,Rarely,Oral allergy syndrome,Yes,Moderate
+Environmental - Mold,17.38765040527631,Daily,Hives,Yes,Severe
+Environmental - Insect,4.291554429332475,Rarely,Itchy skin,Yes,Mild
+Food - Dairy,9.03170270360141,Rarely,Nasal congestion,No,Moderate
+Environmental - Dust,6.4158883969859755,Monthly,Hives,No,Moderate
+Food - Wheat,0.6673169146347,Daily,Coughing,Yes,Mild
+Environmental - Mold,9.586596570786504,Rarely,Nasal congestion,No,Moderate
+Food - Wheat,9.391262458083583,Daily,Hives,Yes,Moderate
+Food - Spices,17.567248716210656,Daily,Coughing,No,Severe
+Food - Wheat,13.154058422773888,Seasonal,Coughing,No,Moderate
+Food - Wheat,4.879065878353975,Monthly,Rash,No,Mild
+Environmental - Mold,19.27046283167094,Monthly,Swelling,No,Severe
+Food - Nuts,16.105168477626766,Monthly,Oral allergy syndrome,No,Severe
+Environmental - Pollen,12.91048851734308,Seasonal,Itchy skin,Yes,Moderate
+Environmental - Insect,8.86757950575084,Seasonal,Shortness of breath,Yes,Moderate
+Environmental - Insect,5.202803816382601,Monthly,Hives,No,Moderate
+Food - Dairy,8.138966119644735,Seasonal,Hives,Yes,Moderate
+Environmental - Mold,15.44374309852093,Seasonal,Nasal congestion,No,Severe
+Food - Dairy,19.422931529673043,Seasonal,Nasal congestion,Yes,Severe
+Environmental - Dust,17.716217641360945,Monthly,Hives,No,Severe
+Environmental - Dust,7.55575289106863,Monthly,Anaphylaxis,No,Moderate
+Food - Dairy,4.401912833554944,Monthly,Itchy skin,No,Mild
+Environmental - Mold,10.70443123455602,Seasonal,Hives,Yes,Moderate
+Food - Dairy,1.1578031721857425,Monthly,Swelling,Yes,Mild
+Environmental - Insect,11.615838570923907,Seasonal,Anaphylaxis,No,Moderate
+Food - Seafood,9.261987068506656,Rarely,Itchy skin,No,Moderate
+Food - Wheat,7.669817490658788,Seasonal,Hives,Yes,Moderate
+Food - Seafood,2.0264846636660225,Daily,Shortness of breath,Yes,Mild
+Environmental - Mold,12.568000532848583,Monthly,Rash,Yes,Moderate
+Food - Seafood,7.336495801690443,Monthly,Swelling,Yes,Moderate
+Environmental - Dust,4.15041582144856,Daily,Shortness of breath,Yes,Mild
+Food - Spices,0.0,Seasonal,Nasal congestion,No,Mild
+Food - Wheat,9.862425474746818,Rarely,Nasal congestion,Yes,Moderate
+Environmental - Pollen,18.86125798334872,Daily,Hives,No,Severe
+Environmental - Mold,18.30629607273935,Daily,Nasal congestion,No,Severe
+Food - Wheat,7.714518717068641,Seasonal,Swelling,Yes,Moderate
+Food - Seafood,6.988939698191097,Monthly,Itchy skin,Yes,Moderate
+Environmental - Dust,12.343871280375119,Seasonal,Coughing,No,Moderate
+Food - Nuts,5.008072804058543,Daily,Oral allergy syndrome,Yes,Moderate
+Environmental - Pollen,11.50895949909733,Daily,Itchy skin,No,Moderate
+Food - Wheat,13.830401391923452,Monthly,Coughing,Yes,Moderate
+Environmental - Dust,16.13466611942154,Monthly,Anaphylaxis,Yes,Severe
+Environmental - Dust,9.499229617600236,Monthly,Swelling,Yes,Moderate
+Food - Seafood,8.981631249115171,Seasonal,Shortness of breath,No,Moderate
+Environmental - Insect,5.610087066217194,Monthly,Coughing,Yes,Moderate
+Food - Seafood,5.8655982298007,Daily,Swelling,No,Moderate
+Environmental - Insect,8.867605540492367,Daily,Rash,Yes,Moderate
+Environmental - Insect,11.836827534080891,Rarely,Shortness of breath,No,Moderate
+Environmental - Pollen,14.567923131166246,Seasonal,Nasal congestion,Yes,Moderate
+Food - Seafood,5.984105246598276,Rarely,Nasal congestion,No,Moderate
+Food - Nuts,17.46344284479761,Daily,Shortness of breath,No,Severe
+Food - Dairy,8.644381994787157,Rarely,Anaphylaxis,No,Moderate
+Food - Dairy,9.89316352825782,Daily,Anaphylaxis,No,Moderate
+Food - Seafood,6.263941604260883,Rarely,Anaphylaxis,No,Moderate
+Food - Seafood,0.0,Monthly,Coughing,No,Mild
+Environmental - Pollen,14.420226981805248,Rarely,Coughing,Yes,Moderate
+Food - Seafood,13.684219485462167,Monthly,Hives,No,Moderate
+Environmental - Insect,8.593362214408932,Monthly,Oral allergy syndrome,No,Moderate
+Environmental - Dust,10.33495358612436,Seasonal,Shortness of breath,No,Moderate
+Environmental - Dust,12.579696088520498,Monthly,Itchy skin,Yes,Moderate
+Environmental - Insect,2.187270715567287,Monthly,Oral allergy syndrome,Yes,Mild
+Environmental - Mold,7.354736613268527,Rarely,Rash,Yes,Moderate
+Environmental - Insect,13.971323398109135,Daily,Coughing,No,Moderate
+Food - Nuts,3.7285528841537534,Seasonal,Coughing,Yes,Mild
+Food - Spices,11.467789660833146,Monthly,Swelling,Yes,Moderate
+Food - Wheat,3.217090976882975,Seasonal,Oral allergy syndrome,No,Mild
+Environmental - Insect,12.332149912167631,Rarely,Swelling,No,Moderate
+Food - Seafood,9.821792588512583,Monthly,Itchy skin,Yes,Moderate
+Food - Seafood,1.9243409204724529,Rarely,Swelling,No,Mild
+Environmental - Pollen,15.823696772285857,Seasonal,Oral allergy syndrome,No,Severe
+Environmental - Insect,6.327042116009753,Rarely,Shortness of breath,No,Moderate
+Environmental - Pollen,5.948737814928095,Seasonal,Rash,No,Moderate
+Environmental - Insect,11.002845986154714,Rarely,Coughing,Yes,Moderate
+Food - Wheat,15.743186747143575,Seasonal,Itchy skin,No,Severe
+Food - Spices,4.920890905108015,Daily,Coughing,Yes,Mild
+Environmental - Dust,10.308399249239859,Rarely,Hives,Yes,Moderate
+Food - Dairy,12.144082501652864,Rarely,Rash,Yes,Moderate
+Environmental - Insect,13.465528036315721,Daily,Swelling,Yes,Moderate
+Food - Spices,10.882207776386126,Daily,Nasal congestion,No,Moderate
+Environmental - Dust,8.164860804583387,Rarely,Oral allergy syndrome,No,Moderate
+Environmental - Mold,5.862048896756401,Daily,Coughing,No,Moderate
+Food - Wheat,10.430719415231874,Monthly,Swelling,Yes,Moderate
+Environmental - Pollen,4.639304940071965,Seasonal,Itchy skin,Yes,Mild
+Environmental - Pollen,0.0,Seasonal,Coughing,Yes,Mild
+Food - Seafood,12.18279902078834,Seasonal,Rash,No,Moderate
+Environmental - Dust,14.519674205430977,Monthly,Rash,Yes,Moderate
+Environmental - Mold,0.0,Daily,Coughing,No,Mild
+Food - Spices,4.951346476450312,Daily,Itchy skin,No,Mild
+Food - Wheat,13.09577130502599,Rarely,Rash,No,Moderate
+Environmental - Dust,20.287477348558493,Daily,Rash,No,Severe
+Environmental - Mold,10.103968538377039,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,6.3599852938543275,Monthly,Itchy skin,No,Moderate
+Environmental - Insect,9.085517794475798,Seasonal,Itchy skin,Yes,Moderate
+Environmental - Pollen,16.874382095740923,Seasonal,Shortness of breath,No,Severe
+Food - Spices,6.770179104377323,Seasonal,Shortness of breath,Yes,Moderate
+Environmental - Pollen,6.004039966748732,Daily,Rash,Yes,Moderate
+Food - Spices,7.586282389089838,Rarely,Nasal congestion,No,Moderate
+Food - Seafood,5.233356958706438,Rarely,Shortness of breath,No,Moderate
+Food - Spices,10.613351579973978,Monthly,Rash,No,Moderate
+Environmental - Pollen,18.123392292347802,Daily,Anaphylaxis,Yes,Severe
+Food - Spices,11.615396365580146,Monthly,Hives,No,Moderate
+Food - Dairy,8.738232489368562,Rarely,Hives,No,Moderate
+Food - Seafood,8.540943655422279,Rarely,Itchy skin,Yes,Moderate
+Food - Spices,2.184045956516715,Seasonal,Nasal congestion,No,Mild
+Environmental - Dust,14.415548885735795,Daily,Oral allergy syndrome,Yes,Moderate
+Food - Nuts,9.61081401493599,Rarely,Shortness of breath,No,Moderate
+Environmental - Mold,9.097600432046871,Seasonal,Anaphylaxis,Yes,Moderate
+Food - Nuts,25.965537839224304,Daily,Rash,Yes,Severe
+Food - Nuts,11.493764541828432,Monthly,Nasal congestion,No,Moderate
+Food - Wheat,6.241044749524079,Daily,Itchy skin,Yes,Moderate
+Food - Dairy,7.868212018972283,Daily,Shortness of breath,No,Moderate
+Environmental - Dust,15.742228545983775,Rarely,Nasal congestion,No,Severe
+Environmental - Insect,10.566352052688822,Rarely,Shortness of breath,Yes,Moderate
+Food - Spices,2.8086101084131663,Daily,Oral allergy syndrome,No,Mild
+Environmental - Mold,14.596144672876019,Rarely,Oral allergy syndrome,Yes,Moderate
+Food - Seafood,6.65927957230503,Rarely,Hives,Yes,Moderate
+Environmental - Dust,19.366488881087726,Rarely,Swelling,Yes,Severe
+Environmental - Pollen,15.400240328573243,Seasonal,Swelling,Yes,Severe
+Environmental - Insect,7.763390521706244,Seasonal,Shortness of breath,Yes,Moderate
+Food - Wheat,16.405081808675565,Daily,Swelling,Yes,Severe
+Food - Wheat,10.339277552637016,Rarely,Itchy skin,Yes,Moderate
+Environmental - Dust,14.263868375611096,Seasonal,Swelling,Yes,Moderate
+Food - Nuts,12.423664086472375,Daily,Coughing,No,Moderate
+Environmental - Pollen,5.768216725045632,Rarely,Rash,No,Moderate
+Food - Wheat,6.78225083841269,Monthly,Itchy skin,Yes,Moderate
+Environmental - Mold,15.149804087905807,Rarely,Nasal congestion,No,Severe
+Food - Wheat,8.326123339467296,Rarely,Itchy skin,No,Moderate
+Food - Seafood,7.981757683790017,Seasonal,Hives,No,Moderate
+Food - Spices,5.224387103253235,Daily,Nasal congestion,No,Moderate
+Food - Wheat,12.117995327967305,Daily,Anaphylaxis,No,Moderate
+Food - Seafood,20.312624596215727,Seasonal,Rash,No,Severe
+Environmental - Dust,4.662335428728635,Rarely,Rash,Yes,Mild
+Environmental - Dust,10.12109728336379,Monthly,Rash,No,Moderate
+Environmental - Insect,17.061102777077146,Rarely,Rash,No,Severe
+Food - Wheat,9.601793043771425,Rarely,Shortness of breath,No,Moderate
+Environmental - Mold,12.26185898124867,Monthly,Rash,No,Moderate
+Food - Wheat,4.688032359265602,Seasonal,Rash,Yes,Mild
+Environmental - Mold,12.141535486038244,Daily,Rash,Yes,Moderate
+Food - Dairy,9.064278674977256,Seasonal,Shortness of breath,Yes,Moderate
+Environmental - Insect,14.928649978399314,Seasonal,Oral allergy syndrome,Yes,Moderate
+Food - Dairy,15.936930257823755,Rarely,Itchy skin,No,Severe
+Food - Wheat,22.947818210093068,Daily,Itchy skin,Yes,Severe
+Environmental - Insect,12.898165866067878,Daily,Nasal congestion,Yes,Moderate
+Food - Dairy,11.628981582910832,Seasonal,Coughing,Yes,Moderate
+Food - Nuts,10.97192150788668,Monthly,Itchy skin,Yes,Moderate
+Food - Wheat,8.234168535946559,Seasonal,Swelling,No,Moderate
+Food - Dairy,11.692419217308455,Monthly,Coughing,Yes,Moderate
+Food - Nuts,8.522992949304854,Daily,Rash,No,Moderate
+Food - Nuts,10.842304881348072,Seasonal,Rash,Yes,Moderate
+Environmental - Dust,16.5879876780398,Rarely,Shortness of breath,No,Severe
+Food - Wheat,4.967287173601794,Seasonal,Coughing,No,Mild
+Food - Nuts,15.699392805645227,Daily,Swelling,Yes,Severe
+Environmental - Dust,16.58557533669933,Rarely,Shortness of breath,Yes,Severe
+Food - Dairy,9.409657365044605,Rarely,Nasal congestion,Yes,Moderate
+Food - Seafood,0.0,Monthly,Coughing,Yes,Mild
+Food - Wheat,6.960890064527838,Rarely,Rash,No,Moderate
+Environmental - Insect,16.484972732805545,Rarely,Rash,No,Severe
+Environmental - Mold,9.885659688505589,Seasonal,Hives,Yes,Moderate
+Environmental - Mold,5.003488838525446,Daily,Shortness of breath,Yes,Moderate
+Food - Dairy,7.476125393858913,Monthly,Oral allergy syndrome,No,Moderate
+Food - Dairy,14.203100132522765,Seasonal,Oral allergy syndrome,Yes,Moderate
+Food - Nuts,12.733667841006897,Rarely,Shortness of breath,No,Moderate
+Food - Wheat,8.805339504151528,Rarely,Anaphylaxis,Yes,Moderate
+Environmental - Mold,8.165877940926562,Monthly,Shortness of breath,No,Moderate
+Environmental - Mold,8.04120925478089,Daily,Nasal congestion,No,Moderate
+Food - Nuts,5.387949077507487,Monthly,Rash,No,Moderate
+Environmental - Mold,18.07687844734721,Seasonal,Swelling,No,Severe
+Environmental - Insect,8.3883976539433,Monthly,Anaphylaxis,No,Moderate
+Food - Wheat,16.085792604127484,Rarely,Coughing,Yes,Severe
+Food - Spices,17.606580259612258,Seasonal,Anaphylaxis,No,Severe
+Environmental - Mold,14.991554490739802,Rarely,Swelling,Yes,Moderate
+Food - Dairy,7.841898436409759,Daily,Hives,No,Moderate
