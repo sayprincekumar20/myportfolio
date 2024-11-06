@@ -1,0 +1,92 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #394032;; /* White background for content */
+
+}
+
+/* Container Styling */
+.container {
+    display: flex;
+    background-color: #ffffff; /* White background for content */
+    width: 90%;
+    max-width: 1200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; /* Center and add space between containers */
+    border-radius: 10px; /* Rounded corners */
+    overflow: hidden;
+    align-items: center; /* Center content vertically */
+    gap: 25px; /* Space between containers */
+}
+
+/* Content Styling */
+.content {
+    width: 100%; /* Take up half of container width */
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+/* Image Container Styling */
+.image-container {
+    width: 50%; /* Take up half of container width */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Align image to the left */
+    background-color: #f0f0f0; /* Soft grey background */
+    padding: 20px;
+}
+
+/* Image Styling */
+.image-container img {
+    object-fit: contain; /* Prevents image stretching */
+    width: 100%; /* Fill container width */
+    max-height: 100%; /* Keep height constrained */
+}
+
+/* Heading Styling */
+h2.gall-title {
+    font-size: 3em;
+    color: #4b4f38;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20%;
+    margin-top: 50px;
+}
+
+p.story {
+    font-family:Garamond;
+  }
+
+p.text { 
+    line-height:1.5 ;
+    font-size: 1.5em;
+    color: #4b4f38;
+    margin-top: 10px;
+    padding-left: 20%; 
+    font-family: 'Times New Roman';
+
+}
+/* Subtitle Styling */
+.subtitle {
+    font-size: 1em;
+    color: #4b4f38;
+    margin-top: 10px;
+    padding-left: 20%;
+}
+
+/* Social Icons Styling */
+.social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    padding-left: 20%;
+}
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+    background-color: #4b4f38; /* Dark green background */
+    padding: 8px;
+    border-radius: 5px;
+}
