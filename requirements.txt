@@ -1,6 +1,0 @@
-Django
-python-dotenv
-joblib
-pandas
-numpy
-
