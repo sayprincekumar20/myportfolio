@@ -205,7 +205,9 @@ from django.shortcuts import render
 
 def render_notebook_tmdb_movies(request):
     # Define the path to the notebook
-    notebook_path = r'C:\Users\prince_singh04\myportfolio\portfolio\templates\blogs\tmdb-Movies.ipynb'
+    notebook_path = 'portfolio/templates/blogs/tmdb-Movies.ipynb'
+
+   # notebook_path = r'C:\Users\prince_singh04\myportfolio\portfolio\templates\blogs\tmdb-Movies.ipynb'
     
     # Load and convert the notebook to HTML
     with open(notebook_path, 'r', encoding='utf-8') as f:
@@ -220,7 +222,9 @@ def render_notebook_tmdb_movies(request):
 
 def render_notebook_T20_World_cup(request):
     # Define the path to the notbook
-    notbook_path= r'C:\Users\prince_singh04\myportfolio\portfolio\templates\blogs\T20 World Cup 2024 Match Analysis.ipynb'
+    notbook_path= 'portfolio/templates/blogs/T20 World Cup 2024 Match Analysis.ipynb'
+
+   # notbook_path= r'C:\Users\prince_singh04\myportfolio\portfolio\templates\blogs\T20 World Cup 2024 Match Analysis.ipynb'
 
     # Load and convert the notbook to HTML
     with open(notbook_path, 'r', encoding='utf-8') as f:
