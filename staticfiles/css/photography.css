@@ -1,0 +1,185 @@
+/* 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+} */
+
+/* Container Styling */
+.container {
+    display: flex;
+    background-color: #ffffff; /* White background for content */
+    width: 90%;
+    max-width: 1200px; /* Adjusted max-width for spacious layout */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; /* Center the container */
+    border-radius: 10px; /* Rounded corners */
+    overflow: hidden;
+    height: 20%;
+}
+
+/* Content Styling */
+.content {
+    padding: 40px;
+    width: 65%;
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+
+
+/* Heading Styling */
+h1 {
+    font-size: 3em;
+    color: white; 
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+
+}
+
+.gall-title {
+    font-size: 3em;
+    color: #4b4f38; /* Dark green color */
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20%;
+    margin-top: 50px;
+
+}
+
+h2 {
+    padding-left: 20%;
+    font-size: 2em;
+    color: #4b4f38;
+    margin-top: 20px;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.subtitle {
+    font-size: 1em;
+    color: #4b4f38;
+    margin-top: 10px;
+    padding-left: 20%;
+    
+}
+
+/* Social Icons Styling */
+.social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    padding-left: 20%;
+}
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+    background-color: #4b4f38; /* Dark green background for icons */
+    padding: 8px;
+    border-radius: 5px;
+}
+
+/* Image Container Styling */
+.image-container {
+    width: 35%; /* Adjusted for better proportion */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0; /* Soft grey background */
+    border-right: 1px solid #e0e0e0; /* Soft divider between sections */
+    box-sizing: border-box;
+    height: 20%; /* Make container height 100% */
+}
+
+.image-container img {
+    object-fit: cover; /* Crops the image to cover the entire container */
+    width: 115%; /* Ensures image fills the container */
+    max-width: 500px; /* Increased max width */
+    height: 40%; /* Ensures the image fills the container height */
+    border: 1px solid #cccccc; /* Soft grey border around image */
+    border-radius: 5px; /* Slightly rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Subtle shadow for depth */
+}
+
+/* Gallery Styling */
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    padding: 20px;
+    position: relative;
+}
+
+/* Center and style the gallery title */
+.gallery-title {
+    font-size: 3em;
+    color: #4b4f38; /* Dark green color */
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; /* Center-align the text */
+    margin-top: 20px; /* Optional: add some spacing at the top */
+}
+
+/* Individual Gallery Item */
+.gallery-item {
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 2px;
+    opacity: 0; /* Start hidden for animation */
+    transform: translateY(80px); /* Start shifted down */
+    transition: transform 0.6s ease, opacity 0.6s ease;
+}
+
+/* Image Styling */
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+    border-radius: 8px;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.05); /* Enlarges image on hover */
+}
+
+/* Different image sizes for a Masonry effect */
+.gallery-item.large {
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+.gallery-item.tall {
+    grid-row: span 2;
+}
+
+.gallery-item.wide {
+    grid-column: span 2;
+}
+
+/* Animation class for images in view */
+.gallery-item.in-view {
+    opacity: 1;
+    transform: translateY(0); /* Move image to original position */
+}
+
+/* Lightbox overlay */
+.lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.lightbox-overlay img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.lightbox-overlay.active {
+    display: flex;
+}
