@@ -7,6 +7,10 @@
     
 }
 
+/* .section .content {
+    width: 200px;
+}; */
+
 
 /* Section Styling */
 .section {
@@ -56,6 +60,8 @@ h2 {
     color: #666666;
     line-height: 1.6;
     margin: 20px 0;
+    text-align-last: left;
+
 }
 
 .about-btn {
@@ -93,6 +99,7 @@ h2 {
     height: 20px;
     background-color: #4b4f38; /* Dark green color for the border */
 }
+
 
 /* About Section Styling */
 #about h2 {
@@ -142,6 +149,8 @@ h2 {
     box-sizing: border-box;
     height: 20%; /* Make container height 100% */
 }
+
+
 
 .image-container img {
     object-fit: cover; /* Crops the image to cover the entire container */
