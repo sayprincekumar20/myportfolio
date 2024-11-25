@@ -33,7 +33,8 @@ SECRET_KET= os.environ.get("SECRET_KEY")
 DEBUG= os.environ.get("DEBUG","False").lower== "true"
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')
+
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '').split(',')
 
 # settings for email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
