@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 800px; /* Reduce header size */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; /* Add margin below header */
+}
+
+
+
+.header h1 {
+    margin: 0;
+    font-size: 1.8em; /* Reduce font size */
+}
+
+.header p {
+    margin: 10px 0;
+    color: #666;
+}
+
+.header a {
+    color: #0073b1;
+    text-decoration: none;
+}
+
+.header button {
+    background-color: #0073b1;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.pdf-viewer {
+    width: 80%;
+    height: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.resume-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+};
+
