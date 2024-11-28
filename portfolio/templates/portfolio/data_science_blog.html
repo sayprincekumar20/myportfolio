@@ -17,7 +17,7 @@
 
 <body> 
     <div id="data-container"> 
-        <h1>Hands-on Data Science Projects & EDA</h1> 
+        <h1>Hands-On Data Science Projects and Exploratory Data Analysis (EDA)</h1> 
         <div class="card-container"> 
             <!-- Card items with clickable links -->
             <div class="card" onclick="location.href='{% url 'allergy_prediction' %}' " style="cursor: pointer;">
@@ -80,11 +80,11 @@
                
           
             
-            <div class="card" onclick="location.href='{% url 'blogs_5' %}'" style="cursor: pointer;">
+            {% comment %} <div class="card" onclick="location.href='{% url 'blogs_5' %}'" style="cursor: pointer;">
                 <img src= "{% static 'img/data_science_card_images/Spotify data analysis.png' %}" alt="Spotify data analysis">
                 <h3>complete test series product companies</h3> 
                 <p>This is the content of Card 544.</p> 
-            </div>
+            </div> {% endcomment %}
 
          
             <!-- Add other cards here -->

@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
+    display: grid;
   
     
 }
@@ -19,6 +20,7 @@ h1, h2, h3 {
 
 /* Header */
 header {
+    display: grid;
     color: #ffffff;
     padding: 20px 0px;
     text-align: center;
@@ -132,29 +134,29 @@ footer {
     text-decoration: none;
 }
 
-.social-icons {
+/* .social-icons {
     display: flex;
     align-items: center;
-}
+} */
 
 .footer-section .aaa {
      align-items: start; 
     padding-left: 0%;
 }
 
- .social-icons a {
+ /* .social-icons a {
      margin: 0;
-} 
+}  */
 
-.social-icons img {
+/* .social-icons img {
     width: 24px;
     height: 24px;
-}
+} */
 
-.logo {
+/* .logo {
     width: 30px;
     height: auto;
-}
+} */
 .nav-list > li:nth-last-of-type(even) {
     font-size: 20px;
 }
@@ -162,4 +164,19 @@ footer {
 /* Add left padding to the first .footer-section only */
 .footer-section:first-child {
     padding-left: 135px; /* Adjust this value as needed */
+}
+/* Social Icons Styling */
+.social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    padding-left: 20%;
+}
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+    background-color: #4b4f38; /* Dark green background for icons */
+    padding: 8px;
+    /* border-radius: 5px; */
 }
